@@ -1,0 +1,2 @@
+
+In DOS, please execute "anybios w xxx.rom skipmac" for updating.

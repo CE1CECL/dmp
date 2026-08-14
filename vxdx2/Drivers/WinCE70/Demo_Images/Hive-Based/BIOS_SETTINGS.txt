@@ -1,0 +1,3 @@
+
+IDE Configuration -> Native mode + Standard IDE Compatible Enabled
+USB Configuration -> USB Legacy Support Disabled

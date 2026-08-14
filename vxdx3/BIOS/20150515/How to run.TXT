@@ -1,0 +1,8 @@
+
+1. Extract the attached ZIP and then copy all files and BIOS ROM upon a DOS bootable of USB mass storage.
+2. Plug that USB mass storage on VDX3 Board.
+3. Power on and then run "BIOSMP -U XXX.ROM" in DOS.
+4. After Finishing, please power off.
+5. Power on again and then press "Del" key into the BIOS setup.
+6. Press "F9" to load Optimal Defaults.
+7. Press "F10" to save the changes and exit.

@@ -1,0 +1,5 @@
+Note: please download the latest Spiflash tool ver.141 to update A6 BIOS on your platform,
+to avoid unknown boot issue.
+
+Following parameters to update A6 BIOS on your platform,
+C:\>spiflash u xxx.rom nomd5

@@ -1,0 +1,10 @@
+Debian 9 VM
+  Username: root
+  Password: vortex86
+
+  Username: user
+  Password: vortex86
+ 
+USBLINUX / Buildroot Linux
+  Username: root
+  Password: vortex86

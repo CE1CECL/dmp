@@ -1,0 +1,1352 @@
+.
+./download
+./vx86download
+./vx86download/Download
+./vx86download/Download/Data_sheet
+./vx86download/Download/Data_sheet/VDX
+./vx86download/Download/Data_sheet/VDX/VDX-EVB-SCH.pdf
+./vx86download/Download/Data_sheet/VDX/Vortex86DX_A9121_Data_Sheet_V200_BF.pdf
+./vx86download/Download/Data_sheet/VDX2
+./vx86download/Download/Data_sheet/VDX2/VDX2-EVB-SCH.pdf
+./vx86download/Download/Data_sheet/VDX2/Vortex86DX2_A9125_Data_Sheet_V23-BF.pdf
+./vx86download/Download/Data_sheet/VDX3
+./vx86download/Download/Data_sheet/VDX3/VDX3-EVB-SCH.pdf
+./vx86download/Download/Data_sheet/VDX3/Vortex86DX3_A9126_Data_Sheet_V13_BF.pdf
+./vx86download/Download/Data_sheet/VEX
+./vx86download/Download/Data_sheet/VEX/VEX-EVB-SCH.pdf
+./vx86download/Download/Data_sheet/VEX/Vortex86EX_A9123_Data_Sheet_BF.pdf
+./vx86download/Download/Data_sheet/VEX2
+./vx86download/Download/Data_sheet/VEX2/VEX2-EVB-SCH.pdf
+./vx86download/Download/Data_sheet/VEX2/Vortex86EX2_A9133_Master_Data_Sheet_V11_BF.pdf
+./vx86download/Download/Data_sheet/VEX2/Vortex86EX2_A9133_Slave_Data_Sheet_V11_BF.pdf
+./vx86download/Download/Data_sheet/VMX+
+./vx86download/Download/Data_sheet/VMX+/VMX+-EVB-SCH.pdf
+./vx86download/Download/Data_sheet/VMX+/Vortex86MX+_A9130_Data_Sheet_V101_BF.pdf
+./vx86download/Download/Data_sheet/VSX
+./vx86download/Download/Data_sheet/VSX/Vortex86SX_Data_Sheet_v1004-ve040_BF.pdf
+./vx86download/Download/Data_sheet/VSX/VSX-EVB-SCH.pdf
+./vx86download/Download/Linux_Support
+./vx86download/Download/Linux_Support/CentOS_non_PAE_iso
+./vx86download/Download/Linux_Support/CentOS_non_PAE_iso/CentOS_6.4_non_PAE_ISO_file
+./vx86download/Download/Linux_Support/CentOS_non_PAE_iso/CentOS_6.4_non_PAE_ISO_file/CentOS6.4-nonPAE.iso
+./vx86download/Download/Linux_Support/CentOS_non_PAE_iso/Ubuntu_12.04_non_PAE_ISO_file
+./vx86download/Download/Linux_Support/CentOS_non_PAE_iso/Ubuntu_12.04_non_PAE_ISO_file/ubuntu-12.04-desktop-i386-nonpae.iso
+./vx86download/Download/Linux_Support/Ethernet_R6040
+./vx86download/Download/Linux_Support/Ethernet_R6040/R6040(Use_for_Kernel_version_2.4.24~2.6.27)
+./vx86download/Download/Linux_Support/Ethernet_R6040/R6040(Use_for_Kernel_version_2.4.24~2.6.27)/r6040-1.tar.gz
+./vx86download/Download/Linux_Support/Ethernet_R6040/R6040_For_Fedora_Core_10(2.6.27.5-117)
+./vx86download/Download/Linux_Support/Ethernet_R6040/R6040_For_Fedora_Core_10(2.6.27.5-117)/r6040_Fedoracore10.zip
+./vx86download/Download/Linux_Support/Ethernet_R6040/R6040_For_SUSE_11.04
+./vx86download/Download/Linux_Support/Ethernet_R6040/R6040_For_SUSE_11.04/r6040_SUSE.zip
+./vx86download/Download/Linux_Support/HDA_Audio
+./vx86download/Download/Linux_Support/HDA_Audio/Patch_file_of_HDA_device
+./vx86download/Download/Linux_Support/HDA_Audio/Patch_file_of_HDA_device/patch-2.6.34-hda.zip
+./vx86download/Download/Linux_Support/Kernel_Configuration_Patch
+./vx86download/Download/Linux_Support/Kernel_Configuration_Patch/Kernel_2.6.30
+./vx86download/Download/Linux_Support/Kernel_Configuration_Patch/Kernel_2.6.30/Vortex86MX_Patch_and_Config_2.6.30.zip
+./vx86download/Download/Linux_Support/Kernel_Configuration_Patch/Kernel_2.6.34
+./vx86download/Download/Linux_Support/Kernel_Configuration_Patch/Kernel_2.6.34/config-2.6.34-vortex86-sg-r1.zip
+./vx86download/Download/Linux_Support/Kernel_Configuration_Patch/Kernel_3.2
+./vx86download/Download/Linux_Support/Kernel_Configuration_Patch/Kernel_3.2/patch_R6040_for_kernel_3.2.tar
+./vx86download/Download/Linux_Support/Kernel_Configuration_Patch/VEX_EHCI_reset(Coreboot)
+./vx86download/Download/Linux_Support/Kernel_Configuration_Patch/VEX_EHCI_reset(Coreboot)/patch-3.10.55-vex_ehci.gz
+./vx86download/Download/Linux_Support/Kernel_Package
+./vx86download/Download/Linux_Support/Kernel_Package/2.6.30_Ver.1.0_no_APM
+./vx86download/Download/Linux_Support/Kernel_Package/2.6.30_Ver.1.0_no_APM/linux-image-2.6.30-vortex86mx_1.0_i386.deb
+./vx86download/Download/Linux_Support/Kernel_Package/2.6.30_Ver.1.1_APM
+./vx86download/Download/Linux_Support/Kernel_Package/2.6.30_Ver.1.1_APM/linux-image-2.6.30-vortex86mx-apm_1.1_i386 .deb
+./vx86download/Download/Linux_Support/Kernel_Package/2.6.30_Ver1.3_APM
+./vx86download/Download/Linux_Support/Kernel_Package/2.6.30_Ver1.3_APM/linux-image-2.6.30-vortex86mx-apm_1.3_i386.deb
+./vx86download/Download/Linux_Support/Kernel_Package/2.6.32-21
+./vx86download/Download/Linux_Support/Kernel_Package/2.6.32-21/linux-image-2.6.32-21-vortex86_2.6.32-21.32_i386.deb
+./vx86download/Download/Linux_Support/Kernel_Package/2.6.34.10_Ver.1.2_D
+./vx86download/Download/Linux_Support/Kernel_Package/2.6.34.10_Ver.1.2_D/linux-image-2.6.34.10-vortex86-sg_1.2_i386.deb
+./vx86download/Download/Linux_Support/Kernel_Package/2.6.34.10_Ver.1.4
+./vx86download/Download/Linux_Support/Kernel_Package/2.6.34.10_Ver.1.4/linux-image-2.6.34.10-vortex86-sg_1.4_i386.deb
+./vx86download/Download/Linux_Support/Kernel_Package/2.6.34.10_Ver1.3
+./vx86download/Download/Linux_Support/Kernel_Package/2.6.34.10_Ver1.3/linux-image-2.6.34.10-vortex86-sg_1.3_i386.deb
+./vx86download/Download/Linux_Support/Kernel_Package/2.6.34.11_Ver.1.1
+./vx86download/Download/Linux_Support/Kernel_Package/2.6.34.11_Ver.1.1/linux-image-2.6.34.11-vortex86-sg_1.1_i386.deb
+./vx86download/Download/Linux_Support/Kernel_Package/2.6.34.1_Ver.1.0
+./vx86download/Download/Linux_Support/Kernel_Package/2.6.34.1_Ver.1.0/linux-image-2.6.34.1-vortex86-sg_1.0_i386.deb
+./vx86download/Download/Linux_Support/Kernel_Package/3.8.13_Ver.1.0
+./vx86download/Download/Linux_Support/Kernel_Source
+./vx86download/Download/Linux_Support/Kernel_Source/2.6.30
+./vx86download/Download/Linux_Support/Kernel_Source/2.6.30/linux-2.6.30-vortex86mx.tar.bz2
+./vx86download/Download/Linux_Support/Kernel_Source/2.6.30-apm_Ver.1.1
+./vx86download/Download/Linux_Support/Kernel_Source/2.6.30-apm_Ver.1.1/linux-source-2.6.30-vortex86mx-apm_1.1_all.deb
+./vx86download/Download/Linux_Support/Kernel_Source/2.6.30_Ver.1.1
+./vx86download/Download/Linux_Support/Kernel_Source/2.6.30_Ver.1.1/linux-source-2.6.30-vortex86mx_1.1_all.deb
+./vx86download/Download/Linux_Support/Kernel_Source/2.6.32-21
+./vx86download/Download/Linux_Support/Kernel_Source/2.6.32-21/linux-headers-2.6.32-21-vortex86_2.6.32-21.32_i386.deb
+./vx86download/Download/Linux_Support/Kernel_Source/2.6.34.1
+./vx86download/Download/Linux_Support/Kernel_Source/2.6.34.1/linux-2.6.34.1-vortex86-sg.tar.bz2
+./vx86download/Download/Linux_Support/Kernel_Source/2.6.34.10_Ver.1.2
+./vx86download/Download/Linux_Support/Kernel_Source/2.6.34.10_Ver.1.2/linux-source-2.6.34.10-vortex86-sg_1.2_all.deb
+./vx86download/Download/Linux_Support/Kernel_Source/2.6.34.11
+./vx86download/Download/Linux_Support/Kernel_Source/2.6.34.11/linux-2.6.34.11.tar.bz2
+./vx86download/Download/Linux_Support/Patch_file_of_intruction_cmov
+./vx86download/Download/Linux_Support/Specific_Kernel_Release
+./vx86download/Download/Linux_Support/Specific_Kernel_Release/For_CentOS_5.5
+./vx86download/Download/Linux_Support/Specific_Kernel_Release/For_CentOS_5.5/CentOS5.5_2.6.36-2.i586-0120.zip
+./vx86download/Download/Linux_Support/Specific_Kernel_Release/For_Tiny_Core_Linux_4.2
+./vx86download/Download/Linux_Support/Specific_Kernel_Release/For_Tiny_Core_Linux_4.2/vmlinuz-tcl42.zip
+./vx86download/Download/Linux_Support/Touch_Drivers
+./vx86download/Download/Linux_Support/Touch_Drivers/eGalax_Touch_3.05
+./vx86download/Download/Linux_Support/Touch_Drivers/eGalax_Touch_3.05/eGalaxTouch-3.05.5025-32b-k26.tar.gz
+./vx86download/Download/Linux_Support/Touch_Drivers/eGalax_Touch_3.07
+./vx86download/Download/Linux_Support/Touch_Drivers/eGalax_Touch_3.07/eGalaxTouch-3.07.6014-32b-k26.tar
+./vx86download/Download/Linux_Support/Touch_Drivers/eGTouch_v2.5.4330
+./vx86download/Download/Linux_Support/Touch_Drivers/eGTouch_v2.5.4330/eGTouch_v2.5.4330.L-x.tar
+./vx86download/Download/Linux_Support/TV-in(V4L)Driver(Video for Linux)
+./vx86download/Download/Linux_Support/TV-in(V4L)Driver(Video for Linux)/TV-in_instruction_guide
+./vx86download/Download/Linux_Support/TV-in(V4L)Driver(Video for Linux)/TV-in_instruction_guide/LUG2011DE141344_VMX_platform_TV-Function_user_Guide.pdf
+./vx86download/Download/Linux_Support/TV-in(V4L)Driver(Video for Linux)/VMX(Ubuntu_9.04)
+./vx86download/Download/Linux_Support/TV-in(V4L)Driver(Video for Linux)/VMX(Ubuntu_9.04)/VMX_V4L.zip
+./vx86download/Download/Linux_Support/TV-in(V4L)Driver(Video for Linux)/VMX+_VDX2(Ubuntu_10.04)
+./vx86download/Download/Linux_Support/TV-in(V4L)Driver(Video for Linux)/VMX+_VDX2(Ubuntu_10.04)/V4L_Kernel_Driver_R0.0.3.zip
+./vx86download/Download/Linux_Support/TV-in(V4L)Driver(Video for Linux)/VMX+_VDX2(Ubuntu_9.04)
+./vx86download/Download/Linux_Support/TV-in(V4L)Driver(Video for Linux)/VMX+_VDX2(Ubuntu_9.04)/VMX+_V4L.zip
+./vx86download/Download/Linux_Support/VGA_Drivers
+./vx86download/Download/Linux_Support/VGA_Drivers/VDX
+./vx86download/Download/Linux_Support/VGA_Drivers/VDX/XGI_Z9S_R2_Xorg.zip
+./vx86download/Download/Linux_Support/VGA_Drivers/VDX(Frame_Buffer)
+./vx86download/Download/Linux_Support/VGA_Drivers/VDX(Frame_Buffer)/xgifb_Z_x86_092_04202010.tgz
+./vx86download/Download/Linux_Support/VGA_Drivers/VDX3(M2015)
+./vx86download/Download/Linux_Support/VGA_Drivers/VDX3(M2015)/20141229, Xorg 1.10, 1.11, 1.12
+./vx86download/Download/Linux_Support/VGA_Drivers/VDX3(M2015)/20141229, Xorg 1.10, 1.11, 1.12/M2015_Xorg_Driver_&_Utility_R0.0.1.zip
+./vx86download/Download/Linux_Support/VGA_Drivers/VEX(A9160)
+./vx86download/Download/Linux_Support/VGA_Drivers/VEX(A9160)/20141009, Xorg 1.10.x, 1.11.x, 1.12.x
+./vx86download/Download/Linux_Support/VGA_Drivers/VEX(A9160)/20141009, Xorg 1.10.x, 1.11.x, 1.12.x/A9160_Xorg_Driver_&_Utility_R0.0.1.zip
+./vx86download/Download/Linux_Support/VGA_Drivers/VMX
+./vx86download/Download/Linux_Support/VGA_Drivers/VMX/M2010_Xorg_Driver_&_Utility_R0.0.12.zip
+./vx86download/Download/Linux_Support/VGA_Drivers/VMX/RDC Xorg Driver R0.0.9.zip
+./vx86download/Download/Linux_Support/VGA_Drivers/VMX+&VDX2
+./vx86download/Download/Linux_Support/VGA_Drivers/VMX+&VDX2/20111011
+./vx86download/Download/Linux_Support/VGA_Drivers/VMX+&VDX2/20111011/M2012_Xorg_Driver_&_Utility_R0.0.2.zip
+./vx86download/Download/Linux_Support/VGA_Drivers/VMX+&VDX2/20120416, Xorg_1.5.x~1.9.x
+./vx86download/Download/Linux_Support/VGA_Drivers/VMX+&VDX2/20120416, Xorg_1.5.x~1.9.x/M2012_Xorg_Driver_&_Utility_R0.0.4.zip
+./vx86download/Download/Linux_Support/VGA_Drivers/VMX+&VDX2/20130221_Xrog_1.7x_1.8x_1.9x
+./vx86download/Download/Linux_Support/VGA_Drivers/VMX+&VDX2/20130221_Xrog_1.7x_1.8x_1.9x/M2012_Xorg_Driver_&_Utility_R0.0.8.zip
+./vx86download/Download/Linux_Support/VGA_Drivers/VMX+&VDX2/20130726, for Gentoo Linux only, Xorg 1.13.3
+./vx86download/Download/Linux_Support/VGA_Drivers/VMX+&VDX2/20130726, for Gentoo Linux only, Xorg 1.13.3/M2012lite_Xorg_Driver_&_Utility_T0.0.0_1.zip
+./vx86download/Download/Linux_Support/VGA_Drivers/VMX+&VDX2/20130726, Xorg_1.12.4
+./vx86download/Download/Linux_Support/VGA_Drivers/VMX+&VDX2/20130726, Xorg_1.12.4/M2012_Xorg_Driver_&_Utility_T0.0.9_1.zip
+./vx86download/Download/Linux_Support/Vortex86 Linux Support List.htm
+./vx86download/Download/programming guide
+./vx86download/Download/programming guide/DMP Vortex86DX2 Software Programming Reference-20160802.pdf
+./vx86download/Download/programming guide/DMP Vortex86DX3 Software Programming Reference-20160802.pdf
+./vx86download/Download/programming guide/DMP_Vortex86_Series_Software_Programming_Reference_091216.pdf
+./vx86download/Download/Windows_Driver
+./vx86download/Download/Windows_Driver/VDX
+./vx86download/Download/Windows_Driver/VDX/VDX_CE5.0
+./vx86download/Download/Windows_Driver/VDX/VDX_CE5.0/VDX_CE5.0.rar
+./vx86download/Download/Windows_Driver/VDX/VDX_CE6.0
+./vx86download/Download/Windows_Driver/VDX/VDX_CE6.0/VDX_CE6.0.rar
+./vx86download/Download/Windows_Driver/VDX/VDX_CE7.0
+./vx86download/Download/Windows_Driver/VDX/VDX_CE7.0/VDX_CE7.0.rar
+./vx86download/Download/Windows_Driver/VDX/VDX_DOS
+./vx86download/Download/Windows_Driver/VDX/VDX_DOS/VDX_DOS.zip
+./vx86download/Download/Windows_Driver/VDX/VDX_Windows_2000
+./vx86download/Download/Windows_Driver/VDX/VDX_Windows_2000/VDX_Windows_2000.rar
+./vx86download/Download/Windows_Driver/VDX/VDX_Windows_98
+./vx86download/Download/Windows_Driver/VDX/VDX_Windows_98/VDX_Windows_98.rar
+./vx86download/Download/Windows_Driver/VDX/VDX_Windows_XP
+./vx86download/Download/Windows_Driver/VDX/VDX_Windows_XP/VDX_Windows_XP.rar
+./vx86download/Download/Windows_Driver/VDX2
+./vx86download/Download/Windows_Driver/VDX2/VDX2_WinCE_60
+./vx86download/Download/Windows_Driver/VDX2/VDX2_WinCE_60/VDX2_WinCE_6.0.rar
+./vx86download/Download/Windows_Driver/VDX2/VDX2_WinCE_70
+./vx86download/Download/Windows_Driver/VDX2/VDX2_WinCE_70/VDX2_WinCE_70.rar
+./vx86download/Download/Windows_Driver/VDX2/VDX2_Windows_7
+./vx86download/Download/Windows_Driver/VDX2/VDX2_Windows_7/VDX2_Windows_7.rar
+./vx86download/Download/Windows_Driver/VDX2/VDX2_Windows_XP
+./vx86download/Download/Windows_Driver/VDX2/VDX2_Windows_XP/VDX2_Windows_XP.rar
+./vx86download/Download/Windows_Driver/VDX3
+./vx86download/Download/Windows_Driver/VDX3/VDX3_WES2009
+./vx86download/Download/Windows_Driver/VDX3/VDX3_WES2009/VDX3_WES2009.rar
+./vx86download/Download/Windows_Driver/VDX3/VDX3_WinCE_60
+./vx86download/Download/Windows_Driver/VDX3/VDX3_WinCE_60/VDX3_WinCE_60.rar
+./vx86download/Download/Windows_Driver/VDX3/VDX3_WinCE_70
+./vx86download/Download/Windows_Driver/VDX3/VDX3_WinCE_70/VDX3_WinCE_70.rar
+./vx86download/Download/Windows_Driver/VDX3/VDX3_Windows_7
+./vx86download/Download/Windows_Driver/VDX3/VDX3_Windows_7/VDX3_Windows_7.rar
+./vx86download/Download/Windows_Driver/VDX3/VDX3_Windows_XP
+./vx86download/Download/Windows_Driver/VDX3/VDX3_Windows_XP/VDX3_Windows_XP.rar
+./vx86download/Download/Windows_Driver/VEX
+./vx86download/Download/Windows_Driver/VEX/VEX_CE7.0
+./vx86download/Download/Windows_Driver/VEX/VEX_CE7.0/VEX_CE7.0.rar
+./vx86download/Download/Windows_Driver/VMX-PLUS
+./vx86download/Download/Windows_Driver/VMX-PLUS/VMX-PLUS_CE6.0
+./vx86download/Download/Windows_Driver/VMX-PLUS/VMX-PLUS_CE6.0/VMX-PLUS_CE6.0.rar
+./vx86download/Download/Windows_Driver/VMX-PLUS/VMX-PLUS_DOS
+./vx86download/Download/Windows_Driver/VMX-PLUS/VMX-PLUS_DOS/VMX-PLUS_DOS.rar
+./vx86download/Download/Windows_Driver/VMX-PLUS/VMX-PLUS_WES2009
+./vx86download/Download/Windows_Driver/VMX-PLUS/VMX-PLUS_WES2009/VMX-PLUS_WES2009.rar
+./vx86download/Download/Windows_Driver/VMX-PLUS/VMX-PLUS_Windows_XP
+./vx86download/Download/Windows_Driver/VMX-PLUS/VMX-PLUS_Windows_XP/VMX-PLUS_Windows_XP.rar
+./vx86download/Download/Windows_Driver/VSX
+./vx86download/Download/Windows_Driver/VSX/VSX_CE5.0
+./vx86download/Download/Windows_Driver/VSX/VSX_CE5.0/VSX_CE5.0.rar
+./vx86download/Download/Windows_Driver/VSX/VSX_CE6.0
+./vx86download/Download/Windows_Driver/VSX/VSX_CE6.0/VSX_CE6.0.rar
+./vx86download/Download/Windows_Driver/VSX/VSX_DOS
+./vx86download/Download/Windows_Driver/VSX/VSX_DOS/VSX_DOS.rar
+./vx86download/ICOP_Wiki
+./vx86download/ICOP_Wiki/ICE104
+./vx86download/ICOP_Wiki/ICE104/8.Waterproof_Rubber-ICE(1.0).pdf
+./vx86download/ICOP_Wiki/ICE104/9.Shockproof_Rubber-ICE_PC(1.0).pdf
+./vx86download/ICOP_Wiki/ICE104/CABLE-WP-AC3P-F-17(1.0).pdf
+./vx86download/ICOP_Wiki/ICE104/CABLE-WP-DB25-F-18(1.0).pdf
+./vx86download/ICOP_Wiki/ICE104/CABLE-WP-DB26-F-18.dwg(1.0).pdf
+./vx86download/ICOP_Wiki/ICE104/CABLE-WP-DB9-M-18(1.0).pdf
+./vx86download/ICOP_Wiki/ICE104/CABLE-WP-DC3P-M-17(1.0).pdf
+./vx86download/ICOP_Wiki/ICE104/CABLE-WP-LAN-F-18(1.0).pdf
+./vx86download/ICOP_Wiki/ICE104/CABLE-WP-LED-G-7(1.0).pdf
+./vx86download/ICOP_Wiki/ICE104/CABLE-WP-SW-A-23(1.0).pdf
+./vx86download/ICOP_Wiki/ICE104/CABLE-WP-USB-F-18(1.0).pdf
+./vx86download/ICOP_Wiki/ICE104/CASE-ICE-FRAME-3L(1.0).pdf
+./vx86download/ICOP_Wiki/ICE104/COVER_ CASE-ICE(1.0).pdf
+./vx86download/ICOP_Wiki/ICE104/ICE-104 installation guide rev.B.pdf
+./vx86download/ICOP_Wiki/ICE104/ICE-104_Logo_IO_Mill_Area.pdf
+./vx86download/ICOP_Wiki/ICE104/LEFT_ BRACKET-00-ICE(D1.3).pdf
+./vx86download/ICOP_Wiki/ICE104/LTWAD-03BFFA-SL7001(WP-LOCK-D3P-F).pdf
+./vx86download/ICOP_Wiki/ICE104/LTWHDB-15PFFS-SL8001(WP-DSUB15P-F).pdf
+./vx86download/ICOP_Wiki/ICE104/LTWHDB-26BMMA-SL7001(WP-DSUB26P-M).pdf
+./vx86download/ICOP_Wiki/ICE104/LTWPWC-03BFMA-LL7001(WP-LOCK3P-M).pdf
+./vx86download/ICOP_Wiki/ICE104/LTWRJ-00BMMA-SL7005(WP-RJ45-M).pdf
+./vx86download/ICOP_Wiki/ICE104/LTWSDB-25BMMA-SL7001(WP-DSUB25P-M).pdf
+./vx86download/ICOP_Wiki/ICE104/LTWUA-20BFMM-SL7A01(WP-USB-A-M).pdf
+./vx86download/ICOP_Wiki/ICE104/PC_104 Enclosures 2D Explosion_Drawing.pdf
+./vx86download/Peter_Test
+./vx86download/Peter_Test/TEST.rar
+./vxdx
+./vxdx/BOM file
+./vxdx/BOM file/DM-116A
+./vxdx/BOM file/DM-116A/20081110-VDX-6390-KIT(DM116A)BOM.xls
+./vxdx/CE demo image
+./vxdx/CE demo image/CE50
+./vxdx/CE demo image/CE50/CE5_boot_0410
+./vxdx/CE demo image/CE60
+./vxdx/CE demo image/CE60/CE6_boot.GHO
+./vxdx/CE demo image/CE60/DX_VESA_MODE_NK.zip
+./vxdx/CE demo image/CE60/NK.zip
+./vxdx/Certificate
+./vxdx/Certificate/Reach_174_Explain
+./vxdx/Certificate/Reach_174_Explain/BPA.ZIP
+./vxdx/Certificate/Reach_174_Explain/Notification of change of BPA_SPIL_2017-2.ppt
+./vxdx/Certificate/RoHS3
+./vxdx/Certificate/RoHS3/9121D_RoHS3_Reports.zip
+./vxdx/DDR2-Internal_Length
+./vxdx/DDR2-Internal_Length/Readme-unit.txt
+./vxdx/DDR2-Internal_Length/VxDX_Ver_A_Trace length-0711.xls
+./vxdx/DDR2-Internal_Length/VxDX_Ver_D_trace length-0711.xls
+./vxdx/DDRTOOL
+./vxdx/DDRTOOL/DDRTOOL.EXE
+./vxdx/DDRTOOL/ddrtool.gz
+./vxdx/Demo_WinXP-XPE_ghost
+./vxdx/Demo_WinXP-XPE_ghost/DX_XPP_SP3_EN.GHO
+./vxdx/Demo_WinXP-XPE_ghost/ghost11.exe
+./vxdx/Demo_WinXP-XPE_ghost/ghost32.exe
+./vxdx/Demo_WinXP-XPE_ghost/WinXPE_base.GHO
+./vxdx/Demo_WinXP-XPE_ghost/XPE IMAGE.rar
+./vxdx/Demo_WinXP-XPE_ghost/XPe_382MB.GHO
+./vxdx/DMP Introduction.wmv
+./vxdx/Driver
+./vxdx/Driver/Linux
+./vxdx/Driver/Linux/config&patch
+./vxdx/Driver/Linux/config&patch/config-2.6.30-vortex86mx
+./vxdx/Driver/Linux/config&patch/patch-2.6.27-vortex86dx.zip
+./vxdx/Driver/Linux/config&patch/patch-2.6.34-hda.zip
+./vxdx/Driver/Linux/config&patch/Vortex86DX_patch-2.6.30-.zip
+./vxdx/Driver/Linux/config&patch/Vortex86MX_Patch_and_Config_2.6.30.zip
+./vxdx/Driver/Linux/eGalaxTouch-3.07.6014-32b-k26.tar
+./vxdx/Driver/Linux/eGTouch_v2.5.4330.L-x.tar
+./vxdx/Driver/Linux/kernel_package
+./vxdx/Driver/Linux/kernel_package/Indesyne
+./vxdx/Driver/Linux/kernel_package/Indesyne/linux-headers-2.6.34.10-vortex86-sg-10.00.custom_i386.deb
+./vxdx/Driver/Linux/kernel_package/Indesyne/linux-image-2.6.34.10-vortex86-sg-10.00.custom_i386.deb
+./vxdx/Driver/Linux/kernel_package/linux-headers-2.6.34.10-vortex86-sg_1.2_i386.deb
+./vxdx/Driver/Linux/kernel_package/linux-image-2.6.30-vortex86mx-apm_1.1_i386.deb
+./vxdx/Driver/Linux/kernel_package/linux-image-2.6.30-vortex86mx-apm_1.3_i386.deb
+./vxdx/Driver/Linux/kernel_package/linux-image-2.6.30-vortex86mx_1.0_i386.deb
+./vxdx/Driver/Linux/kernel_package/linux-image-2.6.34.1-vortex86-sg_1.0_i386.deb
+./vxdx/Driver/Linux/kernel_package/linux-image-2.6.34.10-vortex86-sg_1.2_i386.deb
+./vxdx/Driver/Linux/kernel_package/linux-image-2.6.34.10-vortex86-sg_1.3_i386.deb
+./vxdx/Driver/Linux/kernel_package/linux-image-2.6.34.11-vortex86-sg_1.1_i386.deb
+./vxdx/Driver/Linux/linux-image-2.6.30-vortex86mx_1.0_i386.deb
+./vxdx/Driver/Linux/r6040_Fedoracore10.zip
+./vxdx/Driver/Linux/r6040_SUSE.zip
+./vxdx/Driver/Linux/Readme.html
+./vxdx/Driver/Linux/source
+./vxdx/Driver/Linux/source/CentOS5.5_2.6.36-2.i586-0120.zip
+./vxdx/Driver/Linux/source/linux-2.6.29.1.tar.gz
+./vxdx/Driver/Linux/source/linux-2.6.30-vortex86mx.tar.bz2
+./vxdx/Driver/Linux/source/linux-2.6.34.11.tar.bz2
+./vxdx/Driver/Linux/source/linux-source-2.6.30-vortex86mx-apm_1.1_all.deb
+./vxdx/Driver/Linux/source/linux-source-2.6.30-vortex86mx_1.1_all.deb
+./vxdx/Driver/Linux/source/linux-source-2.6.34.10-vortex86-sg_1.2_all.deb
+./vxdx/Driver/Linux/source/vmlinuz-tcl42.zip
+./vxdx/Driver/Linux/The Linux installation guide for VDX-6390-D platfrom.pdf
+./vxdx/Driver/Linux/toolchains
+./vxdx/Driver/Linux/toolchains/vortex86-toolchain-2014-r1.tar.xz
+./vxdx/Driver/Linux/VIA6655 Linux driver.zip
+./vxdx/Driver/Linux/XGI_Z9S_R2_Xorg.zip
+./vxdx/Driver/Linux/xinput-calibrator_0.7.5-1ubuntu1_i386.deb
+./vxdx/Driver/VxDX-DOS_Drivers
+./vxdx/Driver/VxDX-DOS_Drivers/pci-ndis.zip
+./vxdx/Driver/VxDX-DOS_Drivers/r6040odi.zip
+./vxdx/Driver/VxDX-DOS_Drivers/R6040PD.ZIP
+./vxdx/Driver/VxDX-Linux-IDE
+./vxdx/Driver/VxDX-Linux-IDE/Linux Driver.zip
+./vxdx/Driver/VxDX-Win2000 Driver
+./vxdx/Driver/VxDX-Win2000 Driver/IDE_driver_2009-02-05.rar
+./vxdx/Driver/VxDX-Win2000 Driver/VGA_Z9s.rar
+./vxdx/Driver/VxDX-Win2000 Driver/win2000_LAN_driver.rar
+./vxdx/Driver/VxDX-Win98 Driver
+./vxdx/Driver/VxDX-Win98 Driver/2008_08_01_SX_DX_LAN_Driver_win98.rar
+./vxdx/Driver/VxDX-Win98 Driver/IDE_driver.rar
+./vxdx/Driver/VxDX-Win98 Driver/XGI_VGA_Win98B1.rar
+./vxdx/Driver/VxDX-WinCE
+./vxdx/Driver/VxDX-WinCE/CE5.0
+./vxdx/Driver/VxDX-WinCE/CE5.0/NK
+./vxdx/Driver/VxDX-WinCE/CE5.0/NK/BIOS_Native Mode.txt
+./vxdx/Driver/VxDX-WinCE/CE5.0/NK/NK.bin
+./vxdx/Driver/VxDX-WinCE/CE5.0/Project File
+./vxdx/Driver/VxDX-WinCE/CE5.0/Project File/CE50F_VDX.zip
+./vxdx/Driver/VxDX-WinCE/CE5.0/Vortex86DX_50F_BSP_100330.zip
+./vxdx/Driver/VxDX-WinCE/CE6.0
+./vxdx/Driver/VxDX-WinCE/CE6.0/Vortex86DX_60B_BSP_100723.zip
+./vxdx/Driver/VxDX-WinCE/CE6.0/Vortex86DX_60B_BSP_100723_Note.pdf
+./vxdx/Driver/VxDX-WinCE/CE6.0/WinCE_Development_Note.pdf
+./vxdx/Driver/VxDX-WinCE/CE7.0
+./vxdx/Driver/VxDX-WinCE/CE7.0/BSP
+./vxdx/Driver/VxDX-WinCE/CE7.0/BSP/Vortex86DX_70D_BSP_Compact7.zip
+./vxdx/Driver/VxDX-WinCE/CE7.0/Demo_image
+./vxdx/Driver/VxDX-WinCE/CE7.0/Demo_image/NK.bin
+./vxdx/Driver/VxDX-WinCE/CE7.0/Demo_image/Readme.TXT
+./vxdx/Driver/VxDX-WinCE/CE7.0/Project_File
+./vxdx/Driver/VxDX-WinCE/CE7.0/Project_File/VxDX_DEMO_140702.zip
+./vxdx/Driver/VxDX-WinXP_Driver
+./vxdx/Driver/VxDX-WinXP_Driver/IDE_Driver_2009-02-05.zip
+./vxdx/Driver/VxDX-WinXP_Driver/LAN-VxDX
+./vxdx/Driver/VxDX-WinXP_Driver/LAN-VxDX/A9120_MAC_2008_06_19.zip
+./vxdx/Driver/VxDX-WinXP_Driver/LAN-VxDX/PCI_Install_XP_2K_5719_10202010.zip
+./vxdx/Driver/VxDX-WinXP_Driver/VGA_Z9s
+./vxdx/Driver/VxDX-WinXP_Driver/VGA_Z9s/XP-VGA-1.11.05.zip
+./vxdx/Driver/VxDX-WinXP_Driver/VxDX-XP-Install.pdf
+./vxdx/Errata
+./vxdx/Errata/DMP-Errata-9121D-090612.pdf
+./vxdx/Errata/DMP-Errata-9121D-110801.pdf
+./vxdx/Errata/Errata_Vx862014_a.pdf
+./vxdx/EVB BIOS
+./vxdx/EVB BIOS/DX A5 BIOS
+./vxdx/EVB BIOS/DX A5 BIOS/6390SA5-712.rom
+./vxdx/EVB BIOS/DX A5 BIOS/6390SA5-Z9S.rom
+./vxdx/EVB BIOS/DX A5 BIOS/6390SA5.rom
+./vxdx/EVB BIOS/DX A5 BIOS/EVB A5 BIOS--readme.txt
+./vxdx/EVB BIOS/DX A5 BIOS/SPIFLASH141 BIOS update tool
+./vxdx/EVB BIOS/DX A5 BIOS/SPIFLASH141 BIOS update tool/SPIFLASH141.zip
+./vxdx/EVB BIOS/DX A6 BIOS
+./vxdx/EVB BIOS/DX A6 BIOS/6390RDA6-712.rom
+./vxdx/EVB BIOS/DX A6 BIOS/6390RDA6.rom
+./vxdx/EVB BIOS/DX A6 BIOS/note please apply ver spiflash141 to update A6 BIOS.txt
+./vxdx/EVB BIOS/DX A6 BIOS/SPIFLASH141 BIOS update tool
+./vxdx/EVB BIOS/DX A6 BIOS/SPIFLASH141 BIOS update tool/SPIFLASH141.zip
+./vxdx/EVB BIOS/DX A6 BIOS/Vortex86DX A6 BIOS modification log.txt
+./vxdx/Gerber
+./vxdx/Gerber/DM-116A
+./vxdx/Gerber/DM-116A/dm116ager.zip
+./vxdx/Gerber/DM-116A-PCB Layers
+./vxdx/Gerber/DM-116A-PCB Layers/DM116A-L1_TOP.pdf
+./vxdx/Gerber/DM-116A-PCB Layers/DM116A-L2_GND.pdf
+./vxdx/Gerber/DM-116A-PCB Layers/DM116A-L3_IN1.pdf
+./vxdx/Gerber/DM-116A-PCB Layers/DM116A-L4_VCC.pdf
+./vxdx/Gerber/DM-116A-PCB Layers/DM116A-L5_GND.pdf
+./vxdx/Gerber/DM-116A-PCB Layers/DM116A-L6_BOT.pdf
+./vxdx/ghost32.zip
+./vxdx/Layout
+./vxdx/Layout/DM-116A
+./vxdx/Layout/DM-116A/dm116a.brd
+./vxdx/Layout/DM-116A/DM116a.xls
+./vxdx/Layout/Vortex86DX-AN-001-v02.pdf
+./vxdx/Linux_DEMO
+./vxdx/Linux_DEMO/20090707 Linux Support_Wifi_support.zip
+./vxdx/Linux_DEMO/2012-06-02-Fedora10_DX-img.zip
+./vxdx/Linux_DEMO/2014-10-03-Debian7_Reset_DeviceWise.zip
+./vxdx/Linux_DEMO/2014-11-07-DeviceWise2gb-img.zip
+./vxdx/Linux_DEMO/CentOS6.04-nonPAE.iso
+./vxdx/Linux_DEMO/Debian+Ubuntu_Linux_Installation_Guide.pdf
+./vxdx/Linux_DEMO/Fedora 10 Installation Guide.pdf
+./vxdx/Linux_DEMO/img32.jpg
+./vxdx/Linux_DEMO/install_debian4.pdf
+./vxdx/Linux_DEMO/Kernel 2.6.34.10_1.2.pdf
+./vxdx/Linux_DEMO/linux-headers-2.6.34.1-vortex86-sg_1.0_i386.deb
+./vxdx/Linux_DEMO/Linux_DEMO.url
+./vxdx/Linux_DEMO/Manual
+./vxdx/Linux_DEMO/Manual/LUG2011DE141344_VMX_platform_TV-Function_user_Guide.pdf
+./vxdx/Linux_DEMO/Manual/LUG2011DE201834_VORTEX_Ubuntu904_Installation_Guide.pdf
+./vxdx/Linux_DEMO/Manual/LUG2011DE261621_PMX_touchscreen_TI__Installation_Guide.pdf
+./vxdx/Linux_DEMO/MX_APM_BIOS.zip
+./vxdx/Linux_DEMO/PDF.jpg
+./vxdx/Linux_DEMO/R-DI_4503_.zip
+./vxdx/Linux_DEMO/r6040-1.tar.gz
+./vxdx/Linux_DEMO/resetbtn.tar.gz
+./vxdx/Linux_DEMO/syslinux.zip
+./vxdx/Linux_DEMO/USB linux.dd
+./vxdx/Linux_DEMO/USB Linux.GHO
+./vxdx/Linux_DEMO/Vortex86_BSD_Support_List.htm
+./vxdx/Linux_DEMO/Vortex86_Linux_Support_List.htm
+./vxdx/Linux_DEMO/xgifb_Z_x86_092_04202010.tgz
+./vxdx/Linux_DEMO/XGI_Z9S_R2_Xorg.zip
+./vxdx/Linux_DEMO/XLR563-SX.GHO
+./vxdx/Linux_DEMO/XLR563.dd
+./vxdx/QNX
+./vxdx/QNX/GHOST03+QNX6.zip
+./vxdx/QNX/VDXD-Ghost_QNX_632.zip
+./vxdx/Schematics
+./vxdx/Schematics/DM-116A
+./vxdx/Schematics/DM-116A/DM116A1SCH-20090805.pdf
+./vxdx/Schematics/DM-116A/DM116A_24.DSN
+./vxdx/Schematics/DM-116A/readme - DM116A.txt
+./vxdx/Schematics/DMP Recommend Power Sequence v01.pdf
+./vxdx/Schematics/readme - schematic.txt
+./vxdx/sx-dx-version-090427.pdf
+./vxdx/tool
+./vxdx/tool/certifications.zip
+./vxdx/tool/Classes.zip
+./vxdx/tool/DOS622.zip
+./vxdx/tool/ghost.zip
+./vxdx/tool/HPUSBFW.zip
+./vxdx/tool/HP_Tool_DOS_files.zip
+./vxdx/tool/jflash137_for WinCMD_XP_only_20141015.zip
+./vxdx/tool/jflash140 for WinCMD_WIN7(DX3).zip
+./vxdx/tool/Read_Write_MAC_Address.zip
+./vxdx/tool/win98.zip
+./vxdx/VDX-6390-Manual
+./vxdx/VDX-6390-Manual/VDX-6390_UM_v1r0A-T1.pdf
+./vxdx/vxdx--readme.txt
+./vxdx/Xlinux_image_files
+./vxdx/Xlinux_image_files/linux console.ht
+./vxdx/Xlinux_image_files/X.zip
+./vxdx/Xlinux_image_files/xlr551sx_boot_on_usb.GHO
+./vxdx/Xlinux_image_files/xlr551sx_console_on.GHO
+./vxdx/XPE
+./vxdx/XPE/Windows_Embedded_Images.rar
+./vxdx2
+./vxdx2/Demo
+./vxdx2/Demo/0405_nk.zip
+./vxdx2/Demo/Assembly
+./vxdx2/Demo/Assembly/EBOX-SERIES.wmv
+./vxdx2/Demo/Assembly/EBOX-SERIES.zip
+./vxdx2/Demo/clonezilla-Debian-EB3330-ROTATE.zip
+./vxdx2/Demo/Gentoo
+./vxdx2/Demo/Gentoo/config-2013-05-29
+./vxdx2/Demo/Gentoo/Readme.txt
+./vxdx2/Demo/NK.zip
+./vxdx2/Demo/porteus-2.1-r2.iso
+./vxdx2/Demo/VDX2_XP_HDMI.GHO
+./vxdx2/Demo/Vxworks68.gho
+./vxdx2/Drivers
+./vxdx2/Drivers/Linux
+./vxdx2/Drivers/Linux/Boardcom70015
+./vxdx2/Drivers/Linux/Boardcom70015/Linux.zip
+./vxdx2/Drivers/Linux/Custom_Kernel
+./vxdx2/Drivers/Linux/Custom_Kernel/Debian_6
+./vxdx2/Drivers/Linux/Custom_Kernel/Debian_6/config-2.6.32-vortex86dx2
+./vxdx2/Drivers/Linux/Custom_Kernel/Debian_6/linux-headers-2.6.32-21-vortex86_2.6.32-21.32_i386.deb
+./vxdx2/Drivers/Linux/Custom_Kernel/Debian_6/linux-headers-2.6.32_1.0_i386.deb
+./vxdx2/Drivers/Linux/Custom_Kernel/Debian_6/linux-image-2.6.32_1.0_i386.deb
+./vxdx2/Drivers/Linux/Custom_Kernel/Ubuntu_10.04
+./vxdx2/Drivers/Linux/Custom_Kernel/Ubuntu_10.04/linux-headers-2.6.32-21-vortex86_2.6.32-21.32_i386.deb
+./vxdx2/Drivers/Linux/Custom_Kernel/Ubuntu_10.04/linux-headers-2.6.32-21_2.6.32-21.32_all.deb
+./vxdx2/Drivers/Linux/Custom_Kernel/Ubuntu_10.04/linux-image-2.6.32-21-vortex86_2.6.32-21.32_i386.deb
+./vxdx2/Drivers/Linux/Custom_Kernel/Ubuntu_10.04/RTL8188SU_usb_linux_v2.6.6.0.20110401.zip
+./vxdx2/Drivers/Linux/Kernel_2.6.32
+./vxdx2/Drivers/Linux/Kernel_2.6.32/linux-headers-2.6.32-21-vortex86_2.6.32-21.32_i386.deb
+./vxdx2/Drivers/Linux/Kernel_2.6.32/linux-image-2.6.32-21-vortex86_2.6.32-21.32_i386.deb
+./vxdx2/Drivers/Linux/M2012XorgDriverUtilityR0.0.11.zip
+./vxdx2/Drivers/Linux/M2012_Xorg_Driver_&_Utility_R0.0.10-DMP.zip
+./vxdx2/Drivers/Linux/M2012_Xorg_Driver_&_Utility_R0.0.11.zip
+./vxdx2/Drivers/Linux/M2012_Xorg_Driver_&_Utility_R0.0.2.zip
+./vxdx2/Drivers/Linux/M2012_Xorg_Driver_&_Utility_R0.0.4.zip
+./vxdx2/Drivers/Linux/M2012_Xorg_Driver_&_Utility_R0.0.8.zip
+./vxdx2/Drivers/Linux/M2012_Xorg_Driver_&_Utility_T0.0.9_1.zip
+./vxdx2/Drivers/Linux/patch_R6040_for_kernel_3.2.tar
+./vxdx2/Drivers/Linux/Readme.html
+./vxdx2/Drivers/Linux/V4L_Kernel_Driver_R0.0.3.zip
+./vxdx2/Drivers/Linux/xorg.zip
+./vxdx2/Drivers/WES2009
+./vxdx2/Drivers/WES2009/DX2_PMQ.zip
+./vxdx2/Drivers/WES2009/Vortex86DX2_R8_VGA.zip
+./vxdx2/Drivers/WES2009/WES09_HDA(Realtek-8111F).zip
+./vxdx2/Drivers/WES2009/WES09_r6040_ethernet.zip
+./vxdx2/Drivers/WinCE60
+./vxdx2/Drivers/WinCE60/Demo_image
+./vxdx2/Drivers/WinCE60/Demo_image/NK.BIN
+./vxdx2/Drivers/WinCE60/DMP Vortex86DX2 Windows Embedded CE 6.0 BSP Note.pdf
+./vxdx2/Drivers/WinCE60/DMP Vortex86DX2 Windows Embedded CE 6.0 BSP.msi
+./vxdx2/Drivers/WinCE60/IMG_20131002_094712.jpg
+./vxdx2/Drivers/WinCE60/Readme_ENG.txt
+./vxdx2/Drivers/WinCE70
+./vxdx2/Drivers/WinCE70/1.jpg
+./vxdx2/Drivers/WinCE70/2.jpg
+./vxdx2/Drivers/WinCE70/Demo_Images
+./vxdx2/Drivers/WinCE70/Demo_Images/Hive-Based
+./vxdx2/Drivers/WinCE70/Demo_Images/Hive-Based/BIOS_SETTINGS.txt
+./vxdx2/Drivers/WinCE70/Demo_Images/Hive-Based/NK.bin
+./vxdx2/Drivers/WinCE70/Demo_Images/RAM-Based
+./vxdx2/Drivers/WinCE70/Demo_Images/RAM-Based/BIOS_SETTINGS.txt
+./vxdx2/Drivers/WinCE70/Demo_Images/RAM-Based/NK.bin
+./vxdx2/Drivers/WinCE70/Project_File
+./vxdx2/Drivers/WinCE70/Project_File/DX2_CE70_DEMO.zip
+./vxdx2/Drivers/WinCE70/VDX2_CE7_BSP_130410
+./vxdx2/Drivers/WinCE70/VDX2_CE7_BSP_130410/DMP Vortex86DX2 Windows Embedded Compact 7 BSP Note.pdf
+./vxdx2/Drivers/WinCE70/VDX2_CE7_BSP_130410/DMP Vortex86DX2 Windows Embedded Compact 7 BSP.msi
+./vxdx2/Drivers/WinCE70/VDX2_CE7_BSP_130410/VDX2_CE7_BSP_130410.zip
+./vxdx2/Drivers/Windows_7
+./vxdx2/Drivers/Windows_7/Ethernet_12.04.08.zip
+./vxdx2/Drivers/Windows_7/VGA_M2012_R6.zip
+./vxdx2/Drivers/Windows_XP
+./vxdx2/Drivers/Windows_XP/Audio-New-ALC262_XpDriver_04202011.zip
+./vxdx2/Drivers/Windows_XP/Ethernet-R6040-1204.zip
+./vxdx2/Drivers/Windows_XP/M2012_R6.zip
+./vxdx2/Drivers/Windows_XP/M2012_R7.zip
+./vxdx2/Drivers/Windows_XP/M2012_R8.zip
+./vxdx2/Drivers/Windows_XP/NXP_Capture_R1.zip
+./vxdx2/Drivers/Windows_XP/Vortex86DX2_R8_VGA(WES2009).zip
+./vxdx2/dx2_tempture.rar
+./vxdx2/EVB-board
+./vxdx2/EVB-board/DM175B
+./vxdx2/EVB-board/DM175B/BOM
+./vxdx2/EVB-board/DM175B/BOM/VDX2-6690(DM175A)BOM(DDR2128Mx8)X8.pdf
+./vxdx2/EVB-board/DM175B/dx2-evb-angle_fix.jpg
+./vxdx2/EVB-board/DM175B/Gerber
+./vxdx2/EVB-board/DM175B/Gerber/dm175bger.zip
+./vxdx2/EVB-board/DM175B/Layout
+./vxdx2/EVB-board/DM175B/Layout/dm175bbrd.zip
+./vxdx2/EVB-board/DM175B/Layout/LayoutGuide
+./vxdx2/EVB-board/DM175B/Layout/LayoutGuide/DMP-A9125-AN-001-V06.pdf
+./vxdx2/EVB-board/DM175B/Layout/LayoutGuide/DMP-A9125-AN-001-V08.pdf
+./vxdx2/EVB-board/DM175B/Layout/TraceLength
+./vxdx2/EVB-board/DM175B/Layout/TraceLength/A9125 Trace length-120516.xls
+./vxdx2/EVB-board/DM175B/Schamatic
+./vxdx2/EVB-board/DM175B/Schamatic/DM175B-1_SCH.pdf
+./vxdx2/EVB-board/DM175B/Schamatic/DM175B_13.DSN
+./vxdx2/EVB-board/DM175B/Schamatic/MuxPins
+./vxdx2/EVB-board/DM175B/Schamatic/MuxPins/dx2-pin-selection.pdf
+./vxdx2/EVB-board/DM175B/Schamatic/readme.txt
+./vxdx2/Gentoo
+./vxdx2/Gentoo/config-2013-05-29
+./vxdx2/Gentoo/Gentoo-4.0.5-EB333x.zip
+./vxdx2/Gentoo/Gentoo_Ch1_Core_System.htm
+./vxdx2/IBIS
+./vxdx2/IBIS/DMP-a9125_2012aprv00.ibs
+./vxdx2/PowerConsumption
+./vxdx2/PowerConsumption/DX2-A9125B PowerConsumV11.pdf
+./vxdx2/Read-me-2013-08-06.pdf
+./vxdx2/Verify
+./vxdx2/Verify/Eye Pattern
+./vxdx2/Verify/Eye Pattern/Ether PHY
+./vxdx2/Verify/Eye Pattern/Ether PHY/A9125MP_B_no3_mode0_mask.jpg
+./vxdx2/Verify/Eye Pattern/PCIE
+./vxdx2/Verify/Eye Pattern/PCIE/F1Trace00000.csv
+./vxdx2/Verify/Eye Pattern/PCIE/F1Trace00000.html
+./vxdx2/Verify/Eye Pattern/PCIE/F1Trace00000Eye.png
+./vxdx2/Verify/Eye Pattern/PCIE/F1Trace00000TransitionEye.png
+./vxdx2/Verify/Eye Pattern/SATA
+./vxdx2/Verify/Eye Pattern/SATA/RSG
+./vxdx2/Verify/Eye Pattern/SATA/RSG/LeCroyReport.pdf
+./vxdx2/Verify/Eye Pattern/SATA/TSG
+./vxdx2/Verify/Eye Pattern/SATA/TSG/LeCroyReport.htm
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files/checkLogo.PNG
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files/checkLogoSml.PNG
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files/CustomerLogo.jpg
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files/infoLogo.PNG
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files/infoLogoSml.PNG
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files/LeCroyLogo.jpg
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files/LeCroyReport_1.png
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files/LeCroyReport_10.png
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files/LeCroyReport_11.png
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files/LeCroyReport_2.png
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files/LeCroyReport_3.png
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files/LeCroyReport_4.png
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files/LeCroyReport_5.png
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files/LeCroyReport_6.png
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files/LeCroyReport_7.png
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files/LeCroyReport_8.png
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files/LeCroyReport_9.png
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files/QualiPHYLogo.jpg
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files/xLogo.PNG
+./vxdx2/Verify/Eye Pattern/SATA/TSG/lecroyreport_html_files/xLogoSml.PNG
+./vxdx2/Verify/Eye Pattern/USB
+./vxdx2/Verify/Eye Pattern/USB/Full_speed
+./vxdx2/Verify/Eye Pattern/USB/Full_speed/full_speed_host0_port0.html
+./vxdx2/Verify/Eye Pattern/USB/Full_speed/full_speed_host0_port0.tsv
+./vxdx2/Verify/Eye Pattern/USB/Full_speed/full_speed_host0_port0Eye.png
+./vxdx2/Verify/Eye Pattern/USB/Full_speed/full_speed_host0_port0Plot.png
+./vxdx2/Verify/Eye Pattern/USB/High_speed
+./vxdx2/Verify/Eye Pattern/USB/High_speed/high_speed_host0_port0.html
+./vxdx2/Verify/Eye Pattern/USB/High_speed/high_speed_host0_port0.tsv
+./vxdx2/Verify/Eye Pattern/USB/High_speed/high_speed_host0_port0Eye.png
+./vxdx2/Verify/Eye Pattern/USB/High_speed/high_speed_host0_port0Plot.png
+./vxdx2/Verify/Eye Pattern/USB/Low_speed
+./vxdx2/Verify/Eye Pattern/USB/Low_speed/low_speed_host0_port0.html
+./vxdx2/Verify/Eye Pattern/USB/Low_speed/low_speed_host0_port0.tsv
+./vxdx2/Verify/Eye Pattern/USB/Low_speed/low_speed_host0_port0Eye.png
+./vxdx2/Verify/Eye Pattern/USB/Low_speed/low_speed_host0_port0Plot.png
+./vxdx2/Version
+./vxdx2/Version/DX2-versions.pdf
+./vxdx3
+./vxdx3/ApNote-BM-others
+./vxdx3/ApNote-BM-others/ApplicationNote
+./vxdx3/ApNote-BM-others/ApplicationNote/ApN-DX3-1503B_Public.pdf
+./vxdx3/ApNote-BM-others/BenchMark
+./vxdx3/ApNote-BM-others/BenchMark/20131025 Bench-DX3_(SATA-DOM).pdf
+./vxdx3/BIOS
+./vxdx3/BIOS/20150515
+./vxdx3/BIOS/20150515/1
+./vxdx3/BIOS/20150515/1/BiosMP.cfg
+./vxdx3/BIOS/20150515/1/BIOSMP.EXE
+./vxdx3/BIOS/20150515/1/How to run.TXT
+./vxdx3/BIOS/20150515/1/readme.txt
+./vxdx3/BIOS/20150515/BiosMP.cfg
+./vxdx3/BIOS/20150515/BIOSMP.EXE
+./vxdx3/BIOS/20150515/BIOSUGT.EXE
+./vxdx3/BIOS/20150515/DMP1G667.ROM
+./vxdx3/BIOS/20150515/How to run.TXT
+./vxdx3/BIOS/20150515/TST.bat
+./vxdx3/BIOS/BIOS-DMP1G667.zip
+./vxdx3/Certificate
+./vxdx3/Certificate/RoHS3
+./vxdx3/Certificate/RoHS3/9216C_RoHS3_Reports.zip
+./vxdx3/Demo
+./vxdx3/Demo/Linux
+./vxdx3/Demo/Linux/clonezilla-live-VDX3_Ubuntu10.04.zip
+./vxdx3/Demo/Linux/clonezilla-Ubuntu1204-VDX3-EX-MP3.zip
+./vxdx3/Demo/Linux/debian8.img.xz
+./vxdx3/Demo/Linux/debian9.img.xz
+./vxdx3/Demo/Linux/Login&password_Debian8.txt
+./vxdx3/Demo/Linux/Login&password_Debian9.txt
+./vxdx3/Demo/Linux/Login&Password_for_Lubuntu1804_7GB.txt
+./vxdx3/Demo/Linux/Login&password_Lubuntu1204-ECMaster-Xenomai.img.txt
+./vxdx3/Demo/Linux/Login&password_lubuntu1604&ubuntu1004.img.xz.txt
+./vxdx3/Demo/Linux/Lubuntu-16.04
+./vxdx3/Demo/Linux/Lubuntu-16.04/alim6117_wdt-0.3.0-dkms.tar.gz
+./vxdx3/Demo/Linux/Lubuntu-16.04/config-4.4.6-vortex86dx3.gz
+./vxdx3/Demo/Linux/Lubuntu-16.04/custom-linux-kernel-package-lubuntu-16.04-20170724.iso
+./vxdx3/Demo/Linux/Lubuntu-16.04/custom-linux-kernel-package-lubuntu-16.04-20170726.iso
+./vxdx3/Demo/Linux/Lubuntu-16.04/custom-linux-kernel-package-lubuntu-16.04.iso
+./vxdx3/Demo/Linux/Lubuntu-16.04/fake-pae_1.0.2.tar.xz
+./vxdx3/Demo/Linux/Lubuntu-16.04/fake-pae_1.0.2_i386.deb
+./vxdx3/Demo/Linux/Lubuntu-16.04/vdx3-temp-1.0.0-dkms.tar.gz
+./vxdx3/Demo/Linux/Lubuntu1204-ECMaster-Xenomai.img.xz
+./vxdx3/Demo/Linux/Lubuntu16.04_w_Totem_Movie_Player(H.264)
+./vxdx3/Demo/Linux/Lubuntu16.04_w_Totem_Movie_Player(H.264)/DMP_DX3_Linux_Framebuffer_DSP_Enabled_With_Totem_Player_Testing_Image_190910.img.7z
+./vxdx3/Demo/Linux/lubuntu1604-20170620.img.xz
+./vxdx3/Demo/Linux/Lubuntu1804_7GB_03ffx.raw.xz
+./vxdx3/Demo/Linux/ubuntu1004.img.xz
+./vxdx3/Demo/WES2009
+./vxdx3/Demo/WES2009/WES09DX3.GHO
+./vxdx3/Demo/WES2009/WES2009_VDX3_Demo.zip
+./vxdx3/Demo/WES7
+./vxdx3/Demo/WES7/ghost32.exe
+./vxdx3/Demo/WES7/WES7_DX3_PPC_Pre_First_Boot_0414.GHO
+./vxdx3/Demo/win7 demo image
+./vxdx3/Demo/win7 demo image/DX3_WIN7_EN.GHO
+./vxdx3/Demo/WinCE_60
+./vxdx3/Demo/WinCE_60/DX3_CE60.GHO
+./vxdx3/Demo/WinCE_60/NK.bin
+./vxdx3/Demo/WinCE_60/Readme.txt
+./vxdx3/Demo/WinCE_70
+./vxdx3/Demo/WinCE_70/DX3_CE70.GHO
+./vxdx3/Demo/WinCE_70/NK.bin
+./vxdx3/Demo/WinCE_70/Readme.txt
+./vxdx3/Driver
+./vxdx3/Driver/Linux
+./vxdx3/Driver/Linux/CentOS_6.4
+./vxdx3/Driver/Linux/CentOS_6.4/CentOS6.4-nonPAE.iso
+./vxdx3/Driver/Linux/Debian_8
+./vxdx3/Driver/Linux/Debian_8/linux-headers-3.16.7-ckt20+_3.16.7-ckt20+-3_i386.deb
+./vxdx3/Driver/Linux/Debian_8/linux-image-3.16.7-ckt20+_3.16.7-ckt20+-3_i386.deb
+./vxdx3/Driver/Linux/Debian_8/linux-libc-dev_3.16.7-ckt20+-3_i386.deb
+./vxdx3/Driver/Linux/Lubuntu16.04_18.04
+./vxdx3/Driver/Linux/Lubuntu16.04_18.04/Lubuntu16.04 installation guide for Vortex86DX3-all.pdf
+./vxdx3/Driver/Linux/Lubuntu16.04_18.04/Lubuntu1804 VDX3 headers.zip
+./vxdx3/Driver/Linux/Readme.html
+./vxdx3/Driver/Linux/Ubuntu 12.04
+./vxdx3/Driver/Linux/Ubuntu 12.04/linux-headers-3.2.0-70-generic_3.2.0-70.105_i386.deb
+./vxdx3/Driver/Linux/Ubuntu 12.04/linux-headers-3.2.0-70_3.2.0-70.105_all.deb
+./vxdx3/Driver/Linux/Ubuntu 12.04/linux-image-3.2.0-70-generic_3.2.0-70.105_i386.deb
+./vxdx3/Driver/Linux/Ubuntu 12.04/ubuntu-12.04-desktop-i386-nonpae.iso
+./vxdx3/Driver/Linux/VGA
+./vxdx3/Driver/Linux/VGA/M2015 Linux driver release note.doc
+./vxdx3/Driver/Linux/VGA/M2015_Xorg_Driver_&_Utility_R0.0.1.zip
+./vxdx3/Driver/Player
+./vxdx3/Driver/Player/RDC_mpc-hc_T03.zip
+./vxdx3/Driver/QNX632
+./vxdx3/Driver/QNX632/ddk-devn-vortex_devn-vortex-20181023.zip
+./vxdx3/Driver/QNX632/devn-vortex-20181023.zip
+./vxdx3/Driver/QNX632/VDX3-QNX632-BSP.zip
+./vxdx3/Driver/WES2009
+./vxdx3/Driver/WES2009/DX3_WES2009_Image.zip
+./vxdx3/Driver/WES2009/R6040_ethernet.zip
+./vxdx3/Driver/WES2009/Vortex86DX3.pmq
+./vxdx3/Driver/WES2009/Vortex86DX3_R5_VGA_20161128.zip
+./vxdx3/Driver/Win2000
+./vxdx3/Driver/Win2000/VDX3_Win2000_Drivers.zip
+./vxdx3/Driver/WinCE_60
+./vxdx3/Driver/WinCE_60/BSP
+./vxdx3/Driver/WinCE_60/BSP/VDX3_CE6_BSP_151104.zip
+./vxdx3/Driver/WinCE_60/Demo_Image
+./vxdx3/Driver/WinCE_60/Demo_Image/NK.bin
+./vxdx3/Driver/WinCE_60/Demo_Image/Readme.txt
+./vxdx3/Driver/WinCE_60/Project_File
+./vxdx3/Driver/WinCE_60/Project_File/DMP_VDX3_Demo.zip
+./vxdx3/Driver/WinCE_60/SDK
+./vxdx3/Driver/WinCE_60/SDK/SDK1.zip
+./vxdx3/Driver/WinCE_70
+./vxdx3/Driver/WinCE_70/BSP
+./vxdx3/Driver/WinCE_70/BSP/vdx3_ce7_bsp_151105.zip
+./vxdx3/Driver/WinCE_70/Project_File
+./vxdx3/Driver/WinCE_70/Project_File/VDX3_CE70_20151104.zip
+./vxdx3/Driver/WinCE_70/VGA
+./vxdx3/Driver/WinCE_70/VGA/M2015_CE70_R1.zip
+./vxdx3/Driver/WinCE_70/VGA/M2015_CE7DriverUpdateList.doc
+./vxdx3/Driver/Windows_7
+./vxdx3/Driver/Windows_7/LAN
+./vxdx3/Driver/Windows_7/LAN/Ethernet-R6040-120408.zip
+./vxdx3/Driver/Windows_7/VGA
+./vxdx3/Driver/Windows_7/VGA/M2015_R5.zip
+./vxdx3/Driver/Windows_XP
+./vxdx3/Driver/Windows_XP/AUDIO
+./vxdx3/Driver/Windows_XP/AUDIO/Audio-New-ALC262_XpDriver_04202011.zip
+./vxdx3/Driver/Windows_XP/LAN
+./vxdx3/Driver/Windows_XP/LAN/Ethernet-R6040-120408.zip
+./vxdx3/Driver/Windows_XP/VGA
+./vxdx3/Driver/Windows_XP/VGA/M2015_R5.zip
+./vxdx3/EVB-Board
+./vxdx3/EVB-Board/BOM
+./vxdx3/EVB-Board/BOM/20150513-VDX3-6790-KIT(DM226B)BOM_ENG.pdf
+./vxdx3/EVB-Board/EVB_UserManual
+./vxdx3/EVB-Board/EVB_UserManual/VDX3-6790A_UM_v1.1.pdf
+./vxdx3/EVB-Board/Gerber
+./vxdx3/EVB-Board/Gerber/DM226Bdxf.zip
+./vxdx3/EVB-Board/Gerber/dm226bfab.zip
+./vxdx3/EVB-Board/Gerber/dm226bger.zip
+./vxdx3/EVB-Board/Gerber/dm226bsmd.zip
+./vxdx3/EVB-Board/Gerber/DM226B_12.DBK
+./vxdx3/EVB-Board/Gerber/DM226B_12.DSN
+./vxdx3/EVB-Board/Layout
+./vxdx3/EVB-Board/Layout/dm226bbrd.zip
+./vxdx3/EVB-Board/Layout/LayoutGuide
+./vxdx3/EVB-Board/Layout/LayoutGuide/DMP-9126-AN-001-V08.pdf
+./vxdx3/EVB-Board/Layout/TraceLength
+./vxdx3/EVB-Board/Layout/TraceLength/DX3 Trace length report_130527.xls
+./vxdx3/EVB-Board/Schematic
+./vxdx3/EVB-Board/Schematic/DM226B-BOT.pdf
+./vxdx3/EVB-Board/Schematic/DM226B-TOP.pdf
+./vxdx3/EVB-Board/Schematic/DM226BSCHOUT.zip
+./vxdx3/EVB-Board/Schematic/DM226B_12.pdf
+./vxdx3/EVB-Board/Schematic/DRAM
+./vxdx3/EVB-Board/Schematic/DRAM/A9126_Flash_Strap_User_Guide_20170714_DMP.pdf
+./vxdx3/EVB-Board/Schematic/DRAM/DX3_DDR3X16.DSN
+./vxdx3/EVB-Board/Schematic/DRAM/DX3_DDR3x16.pdf
+./vxdx3/EVB-Board/Schematic/DRAM/DX3_DDR3x16.xls
+./vxdx3/EVB-Board/Schematic/DRAM/MICRON_DDR3 512M16(MT41K512M16TNA).pdf
+./vxdx3/EVB-Board/Schematic/DRAM/readme-x16_DDR3.txt
+./vxdx3/EVB-Board/Schematic/LVDS
+./vxdx3/EVB-Board/Schematic/LVDS/DX3-LVDS.pdf
+./vxdx3/EVB-Board/Schematic/LVDS/readme.txt
+./vxdx3/EVB-Board/Schematic/MuxPins
+./vxdx3/EVB-Board/Schematic/MuxPins/DX3-Pin-Selection.xls
+./vxdx3/EVB-Board/Schematic/MuxPins/Readme.txt
+./vxdx3/EVB-Board/Schematic/Readme.txt
+./vxdx3/IBIS
+./vxdx3/IBIS/DX3-a9126_2013Julv00.rar
+./vxdx3/IR_Reflow
+./vxdx3/IR_Reflow/VDX3-6790-IRreflow.pdf
+./vxdx3/PowerConsumption
+./vxdx3/PowerConsumption/PowerBudget
+./vxdx3/PowerConsumption/PowerBudget/VDX3-PowerBudget-V10.pdf
+./vxdx3/PowerConsumption/Thermal
+./vxdx3/PowerConsumption/Thermal/A9126LCB4A RTS14173-JC.pdf
+./vxdx3/PowerConsumption/Thermal/External HS for simulation.pdf
+./vxdx3/Read-me-170714.pdf
+./vxdx3/Ver
+./vxdx3/Ver/DX3D150521.pdf
+./vxdx3/Verify
+./vxdx3/Verify/A9126_DX3 Signal Quality_DMP20150410.pdf
+./vxdx3/Verify/MAC
+./vxdx3/Verify/MAC/100M
+./vxdx3/Verify/MAC/100M/RX
+./vxdx3/Verify/MAC/100M/RX/Amplitude_XPBUSY.jpg
+./vxdx3/Verify/MAC/100M/RX/duty_cycle_distrotion_XPBUSY.jpg
+./vxdx3/Verify/MAC/100M/RX/Jitter_XPBUSY.jpg
+./vxdx3/Verify/MAC/100M/RX/Mask_XPBUSY.jpg
+./vxdx3/Verify/MAC/100M/RX/Rise&Fall_XPBUSY.jpg
+./vxdx3/Verify/MAC/100M/RX/Thumbs.db
+./vxdx3/Verify/MAC/100M/TX
+./vxdx3/Verify/MAC/100M/TX/AMplitude_XPBUSY.jpg
+./vxdx3/Verify/MAC/100M/TX/duty_cycle_distrotion_XPBUSY1.jpg
+./vxdx3/Verify/MAC/100M/TX/Jitter_XPBUSY.jpg
+./vxdx3/Verify/MAC/100M/TX/MASK_XPBUSY.jpg
+./vxdx3/Verify/MAC/100M/TX/Rise&fall_XPBUSY.jpg
+./vxdx3/Verify/MAC/10M
+./vxdx3/Verify/MAC/10M/RX
+./vxdx3/Verify/MAC/10M/RX/1.Link test pules Head Mask with TPM.jpg
+./vxdx3/Verify/MAC/10M/RX/10.DOV Mask MAU Int1.jpg
+./vxdx3/Verify/MAC/10M/RX/11.DOV Mask MAU Int INV1.jpg
+./vxdx3/Verify/MAC/10M/RX/11.DOV Mask MAU Int INV2.jpg
+./vxdx3/Verify/MAC/10M/RX/12.DOV peak amplitude without TPM.jpg
+./vxdx3/Verify/MAC/10M/RX/13.Output timing Jitter 8BT with TPM.jpg
+./vxdx3/Verify/MAC/10M/RX/14.Output timing Jitter 8.5BT with TPM.jpg
+./vxdx3/Verify/MAC/10M/RX/15.Output timing Jitter 8BT without TPM.jpg
+./vxdx3/Verify/MAC/10M/RX/16.Output timing Jitter 8.5BT without TPM.jpg
+./vxdx3/Verify/MAC/10M/RX/2.Link test pules Tail Mask with TPM.jpg
+./vxdx3/Verify/MAC/10M/RX/3.Link test pules Head Mask without TPM.jpg
+./vxdx3/Verify/MAC/10M/RX/4.Link test pules Tail Mask without TPM.jpg
+./vxdx3/Verify/MAC/10M/RX/5.TP_IDL Head Mask with TPM.jpg
+./vxdx3/Verify/MAC/10M/RX/6.TP_IDL Tail Mask with TPM.jpg
+./vxdx3/Verify/MAC/10M/RX/7.TP_IDL Head Mask without TPM.jpg
+./vxdx3/Verify/MAC/10M/RX/8.TP_IDL Tail Mask without TPM.jpg
+./vxdx3/Verify/MAC/10M/RX/9.DOV Harmonics.jpg
+./vxdx3/Verify/MAC/10M/RX/Thumbs.db
+./vxdx3/Verify/MAC/10M/TX
+./vxdx3/Verify/MAC/10M/TX/1.Link test pules Head Mask with TPM.jpg
+./vxdx3/Verify/MAC/10M/TX/10.DOV Mask MAU Int.jpg
+./vxdx3/Verify/MAC/10M/TX/11.DOV Mask MAU Int INV.jpg
+./vxdx3/Verify/MAC/10M/TX/12.DOV peak amplitude without TPM.jpg
+./vxdx3/Verify/MAC/10M/TX/13.Output timing Jitter 8BT with TPM.jpg
+./vxdx3/Verify/MAC/10M/TX/14.Output timing Jitter 8.5BT with TPM.jpg
+./vxdx3/Verify/MAC/10M/TX/15.Output timing Jitter 8BT without TPM.jpg
+./vxdx3/Verify/MAC/10M/TX/16.Output timing Jitter 8.5BT without TPM.jpg
+./vxdx3/Verify/MAC/10M/TX/2.Link test pules Tail Mask with TPM.jpg
+./vxdx3/Verify/MAC/10M/TX/3.Link test pules Head Mask without TPM.jpg
+./vxdx3/Verify/MAC/10M/TX/4.Link test pules Tail Mask without TPM.jpg
+./vxdx3/Verify/MAC/10M/TX/5.TP_IDL Head Mask with TPM.jpg
+./vxdx3/Verify/MAC/10M/TX/6.TP_IDL Tail Mask with TPM.jpg
+./vxdx3/Verify/MAC/10M/TX/7.TP_IDL Head Mask without TPM.jpg
+./vxdx3/Verify/MAC/10M/TX/7.TP_IDL Head Mask without TPM1.jpg
+./vxdx3/Verify/MAC/10M/TX/8.TP_IDL Tail Mask without TPM.jpg
+./vxdx3/Verify/MAC/10M/TX/9.DOV Harmonics.jpg
+./vxdx3/Verify/MAC/10M/TX/Thumbs.db
+./vxdx3/Verify/PCI-E
+./vxdx3/Verify/PCI-E/mini card slit
+./vxdx3/Verify/PCI-E/mini card slit/205_mini_xpbusy.html
+./vxdx3/Verify/PCI-E/mini card slit/205_mini_xpbusy1.html
+./vxdx3/Verify/PCI-E/mini card slit/205_mini_xpbusy1Eye.png
+./vxdx3/Verify/PCI-E/mini card slit/205_mini_xpbusy1TransitionEye.png
+./vxdx3/Verify/PCI-E/mini card slit/205_mini_xpbusyEye.png
+./vxdx3/Verify/PCI-E/mini card slit/205_mini_xpbusyTransitionEye.png
+./vxdx3/Verify/PCI-E/x16_slot
+./vxdx3/Verify/PCI-E/x16_slot/205_x16_xpbusy.html
+./vxdx3/Verify/PCI-E/x16_slot/205_x16_xpbusy1.html
+./vxdx3/Verify/PCI-E/x16_slot/205_x16_xpbusy1Eye.png
+./vxdx3/Verify/PCI-E/x16_slot/205_x16_xpbusy1TransitionEye.png
+./vxdx3/Verify/PCI-E/x16_slot/205_x16_xpbusyEye.png
+./vxdx3/Verify/PCI-E/x16_slot/205_x16_xpbusyTransitionEye.png
+./vxdx3/Verify/PCI-E/x16_slot/Thumbs.db
+./vxdx3/Verify/readme.txt
+./vxdx3/Verify/SATA
+./vxdx3/Verify/SATA/SATA_PHY&TSG
+./vxdx3/Verify/SATA/SATA_PHY&TSG/phy&tsg_XP_busy_33M.PDF
+./vxdx3/Verify/SATA/SATA_RSG
+./vxdx3/Verify/SATA/SATA_RSG/#309RSG.htm
+./vxdx3/Verify/SATA/SATA_RSG/#309rsg_html_files
+./vxdx3/Verify/SATA/SATA_RSG/#309rsg_html_files/#309RSG.htm
+./vxdx3/Verify/SATA/SATA_RSG/#309rsg_html_files/checkLogo.PNG
+./vxdx3/Verify/SATA/SATA_RSG/#309rsg_html_files/checkLogoSml.PNG
+./vxdx3/Verify/SATA/SATA_RSG/#309rsg_html_files/CustomerLogo.jpg
+./vxdx3/Verify/SATA/SATA_RSG/#309rsg_html_files/infoLogo.PNG
+./vxdx3/Verify/SATA/SATA_RSG/#309rsg_html_files/infoLogoSml.PNG
+./vxdx3/Verify/SATA/SATA_RSG/#309rsg_html_files/LeCroyLogo.jpg
+./vxdx3/Verify/SATA/SATA_RSG/#309rsg_html_files/QualiPHYLogo.jpg
+./vxdx3/Verify/SATA/SATA_RSG/#309rsg_html_files/Thumbs.db
+./vxdx3/Verify/SATA/SATA_RSG/#309rsg_html_files/xLogo.PNG
+./vxdx3/Verify/SATA/SATA_RSG/#309rsg_html_files/xLogoSml.PNG
+./vxdx3/Verify/USB
+./vxdx3/Verify/USB/Full Speed
+./vxdx3/Verify/USB/Full Speed/FS_H0P1_XPBUSY.html
+./vxdx3/Verify/USB/Full Speed/FS_H0P1_XPBUSY.tsv
+./vxdx3/Verify/USB/Full Speed/FS_H0P1_XPBUSY1.html
+./vxdx3/Verify/USB/Full Speed/FS_H0P1_XPBUSY1.tsv
+./vxdx3/Verify/USB/Full Speed/FS_H0P1_XPBUSY1Eye.png
+./vxdx3/Verify/USB/Full Speed/FS_H0P1_XPBUSY1Plot.png
+./vxdx3/Verify/USB/Full Speed/FS_H0P1_XPBUSYEye.png
+./vxdx3/Verify/USB/Full Speed/FS_H0P1_XPBUSYPlot.png
+./vxdx3/Verify/USB/High Speed
+./vxdx3/Verify/USB/High Speed/HS_H0P1_XPBUSY.html
+./vxdx3/Verify/USB/High Speed/HS_H0P1_XPBUSY.tsv
+./vxdx3/Verify/USB/High Speed/HS_H0P1_XPBUSY1.html
+./vxdx3/Verify/USB/High Speed/HS_H0P1_XPBUSY1.tsv
+./vxdx3/Verify/USB/High Speed/HS_H0P1_XPBUSY1Eye.png
+./vxdx3/Verify/USB/High Speed/HS_H0P1_XPBUSY1Plot.png
+./vxdx3/Verify/USB/High Speed/HS_H0P1_XPBUSYEye.png
+./vxdx3/Verify/USB/High Speed/HS_H0P1_XPBUSYPlot.png
+./vxdx3/Verify/USB/High Speed/Thumbs.db
+./vxdx3/Verify/USB/Low Speed
+./vxdx3/Verify/USB/Low Speed/LS_H0P1_XPBUSY.html
+./vxdx3/Verify/USB/Low Speed/LS_H0P1_XPBUSY.tsv
+./vxdx3/Verify/USB/Low Speed/LS_H0P1_XPBUSY1.html
+./vxdx3/Verify/USB/Low Speed/LS_H0P1_XPBUSY1.tsv
+./vxdx3/Verify/USB/Low Speed/LS_H0P1_XPBUSY1Eye.png
+./vxdx3/Verify/USB/Low Speed/LS_H0P1_XPBUSY1Plot.png
+./vxdx3/Verify/USB/Low Speed/LS_H0P1_XPBUSYEye.png
+./vxdx3/Verify/USB/Low Speed/LS_H0P1_XPBUSYPlot.png
+./vxdx3/Verify/VGA
+./vxdx3/Verify/VGA/A9126 DACT4001A TEST Report v0.3-DMP.pdf
+./vxdx3/VGA
+./vxdx3/VGA/1. VBIOS&VGABiosEditor
+./vxdx3/VGA/1. VBIOS&VGABiosEditor/R15003_LCD_Total_New.rom
+./vxdx3/VGA/1. VBIOS&VGABiosEditor/VGABiosEditor 0.7.19.zip
+./vxdx3/VGA/2. VBIOS_Extract_or_Replace
+./vxdx3/VGA/2. VBIOS_Extract_or_Replace/Extract_VBIOS.jpg
+./vxdx3/VGA/2. VBIOS_Extract_or_Replace/MMTOOL.exe
+./vxdx3/VGA/2. VBIOS_Extract_or_Replace/Replace_VBIOS.jpg
+./vxdx3/VGA/2. VBIOS_Extract_or_Replace/VDX3_System_BIOS
+./vxdx3/VGA/2. VBIOS_Extract_or_Replace/VDX3_System_BIOS/A9126Ca6.rom
+./vxdx3/VGA/3. BIOS_Update_Utility
+./vxdx3/VGA/3. BIOS_Update_Utility/ANYBIOS.EXE
+./vxdx3/VGA/3. BIOS_Update_Utility/How_to.TXT
+./vxdx3/VGA/AMIBCP351.EXE
+./vxdx3/VGA/VBIOS_Readme.txt
+./vxdx3/Vx86DX3-DM-1502a.pdf
+./vxdx3/WP2-Final_V3.rar
+./vxex
+./vxex/AppNote
+./vxex/AppNote/eMMC
+./vxex/AppNote/eMMC/1.png
+./vxex/AppNote/eMMC/ex-ap-emmc1.pdf
+./vxex/AppNote/PCIe-Target
+./vxex/AppNote/PCIe-Target/ex-pcie-target.pdf
+./vxex/BenchMark
+./vxex/BenchMark/A9123 Shuttle_Performance Compare-1303.pdf
+./vxex/BIOS_CFG
+./vxex/BIOS_CFG/Change-speed-EX.rar
+./vxex/BIOS_CFG/Coreboot
+./vxex/BIOS_CFG/Coreboot/coreboot.tar
+./vxex/BIOS_CFG/Coreboot/Seabios_revised
+./vxex/BIOS_CFG/Coreboot/Seabios_revised/bios.bin.elf
+./vxex/BIOS_CFG/Coreboot/VEX_coreboot_compiling-new.pdf
+./vxex/BIOS_CFG/DM221AC.rom
+./vxex/BIOS_CFG/EX_Config_BIOS_update20140307.rar
+./vxex/BIOS_CFG/readme.txt
+./vxex/Demo
+./vxex/Demo/2014_Debian7_EBOX3100_115200.zip
+./vxex/Demo/43cedemo.zip
+./vxex/Demo/CENTOS55_115200.arc
+./vxex/Demo/clonezilla-live-2.2.4-12-i486-DEBIAN7-HMI043.zip
+./vxex/Demo/Debian6_115200.arc
+./vxex/Demo/Image4_5.arc
+./vxex/Demo/p1m-voicerecoved.wlmp
+./vxex/Demo/p1m-voicerecoved.wmv
+./vxex/Demo/ubuntu-12.04-desktop-i386-nonpae.iso
+./vxex/Demo/Ubuntu1004-HMI043.arc
+./vxex/Demo/Ubuntu142_VEX.arc
+./vxex/Demo/VEX_3100_Console115200.arc
+./vxex/Demo/WINXP_EX_COREBOOTBIOS_9160DRIVER.GHO
+./vxex/Drivers
+./vxex/Drivers/Linux
+./vxex/Drivers/Linux/A9160 Linux Framebuffer driver R0.0.1.zip
+./vxex/Drivers/Linux/A9160 V4L_0.0.1.zip
+./vxex/Drivers/Linux/A9160_Xorg_Driver_&_Utility_R0.0.1.zip
+./vxex/Drivers/Linux/eGTouch_v2.5.4330.L-x.tar
+./vxex/Drivers/Linux/linux-image-2.6.34.10-vortex86-sg_1.4_i386.deb
+./vxex/Drivers/Linux/patch-3.10.55-vex_ehci.gz
+./vxex/Drivers/Linux/Readme.html
+./vxex/Drivers/WinCE_700_BSP
+./vxex/Drivers/WinCE_700_BSP/VEX_CE7_BSP_151127.zip
+./vxex/Errata
+./vxex/Errata/Errata-EXD20130611.pdf
+./vxex/Errata/Errata_Vx862014_a.pdf
+./vxex/EVB-board
+./vxex/EVB-board/CPU Module
+./vxex/EVB-board/CPU Module/BOM
+./vxex/EVB-board/CPU Module/BOM/AN_SY8089_GFC.pdf
+./vxex/EVB-board/CPU Module/BOM/BOM-SOM128EX-KIT(DM205-1)-1.pdf
+./vxex/EVB-board/CPU Module/DM205toDM205A.txt
+./vxex/EVB-board/CPU Module/Gerber
+./vxex/EVB-board/CPU Module/Gerber/dm205ager.zip
+./vxex/EVB-board/CPU Module/Layout
+./vxex/EVB-board/CPU Module/Layout/dm205abrd.zip
+./vxex/EVB-board/CPU Module/Schematic
+./vxex/EVB-board/CPU Module/Schematic/DM205ASCHOUT.zip
+./vxex/EVB-board/CPU Module/Schematic/DM205A_SCH.pdf
+./vxex/EVB-board/CPU Module/SOM-128-bottom.JPG
+./vxex/EVB-board/CPU Module/SOM-128-top.JPG
+./vxex/EVB-board/Daughter Board
+./vxex/EVB-board/Daughter Board/dm208abrd.zip
+./vxex/EVB-board/Daughter Board/dm208ager.zip
+./vxex/EVB-board/Daughter Board/DM208ASCHOUT.zip
+./vxex/EVB-board/Daughter Board/DM208A_BOT.pdf
+./vxex/EVB-board/Daughter Board/DM208A_SCH.pdf
+./vxex/EVB-board/Daughter Board/DM208A_TOP.pdf
+./vxex/EVB-board/Daughter Board/SOM128onDev.JPG
+./vxex/EVB-board/Mini-ITX
+./vxex/EVB-board/Mini-ITX/DM221A-BOT.pdf
+./vxex/EVB-board/Mini-ITX/DM221A-TOP.pdf
+./vxex/EVB-board/Mini-ITX/DM221toDM221A.txt
+./vxex/EVB-board/Mini-ITX/Gerber
+./vxex/EVB-board/Mini-ITX/Gerber/dm221ager.zip
+./vxex/EVB-board/Mini-ITX/Layout
+./vxex/EVB-board/Mini-ITX/Layout/dm221abrd.zip
+./vxex/EVB-board/Mini-ITX/Schematic
+./vxex/EVB-board/Mini-ITX/Schematic/DM221ASCHOUT.zip
+./vxex/EVB-board/Mini-ITX/Schematic/DM221A_SCH.pdf
+./vxex/IBIS
+./vxex/IBIS/a9123_2012augv00.ibs
+./vxex/Layout
+./vxex/Layout/LayoutGuide
+./vxex/Layout/LayoutGuide/DMP-A9123-AN-001-V09.pdf
+./vxex/Layout/LayoutGuide/DMP-A9123-AN-001-V10.pdf
+./vxex/Layout/TraceLength
+./vxex/Layout/TraceLength/A9123_trace length.xls
+./vxex/OrderInfo
+./vxex/OrderInfo/EX-Order-info.pdf
+./vxex/PCN
+./vxex/PCN/PCN-EX-20166A.pdf
+./vxex/PowerCal&Thermal
+./vxex/PowerCal&Thermal/A9123 power analysis DMP-1303.xls
+./vxex/PowerCal&Thermal/Vx86EX-A9123 RTS13041.pdf
+./vxex/Read-me-191213.pdf
+./vxex/ReflowTemp
+./vxex/ReflowTemp/Vx86EX-SMT profile(SPIL).pdf
+./vxex/Software
+./vxex/Software/CE6
+./vxex/Software/CE6/NK.rar
+./vxex/Software/CE6/Readme.TXT
+./vxex/Software/CE7
+./vxex/Software/CE7/BSP
+./vxex/Software/CE7/BSP/VEX_CE7_BSP_140313.zip
+./vxex/Software/CE7/Demo_Image
+./vxex/Software/CE7/Demo_Image/NK.bin
+./vxex/Software/CE7/Demo_Image/Readme.txt
+./vxex/Software/CE7/Project_File
+./vxex/Software/CE7/Project_File/VEX_DEMO_140320.zip
+./vxex/Software/Linux
+./vxex/Software/Linux/buildroot-2015.02.tar.gz
+./vxex/Software/Linux/Buildroot-2017.02
+./vxex/Software/Linux/Buildroot-2017.02/buildroot-2017.02.11.tar.gz
+./vxex/Software/Linux/Buildroot-2017.02/buildroot-vortex86-2017.02.tar.gz
+./vxex/Software/Linux/Buildroot-2017.02/Debian9_Buildroot.ova.xz
+./vxex/Software/Linux/Buildroot-2017.02/Login_Info.txt
+./vxex/Software/Linux/Buildroot-2017.02/usblinux.iso
+./vxex/Software/Linux/buildroot-vortex86ex.tar.gz
+./vxex/Software/Linux/debian8.3.0_vexsom-standard_develop_Env.ova
+./vxex/Software/Linux/Login_ID&Password.txt
+./vxex/Software/Linux/usblinux.iso
+./vxex/Software/readme.txt
+./vxex/Temp
+./vxex/Temp/Examples
+./vxex/Temp/Examples/omron-examples-20141119.tar.gz
+./vxex/Temp/Examples/omron-examples-20141208.tar.gz
+./vxex/Temp/Examples/omron-examples-20141231.tar.gz
+./vxex/Temp/GPIO
+./vxex/Temp/GPIO/gpio.c
+./vxex/Temp/GPIO/Using GPIO in Vortex86EX SoC.doc
+./vxex/Temp/mkrootfsimg.tar.gz
+./vxex/Temp/rescue_disk.7z
+./vxex/Temp/rufus-1.4.10.exe
+./vxex/Temp/Update
+./vxex/Temp/Update/20141219
+./vxex/Temp/Update/20141219/linux_update.tar.gz
+./vxex/Temp/Update/20141219/old2new.tar.gz
+./vxex/Temp/Update/20141219/old_update.tar.gz
+./vxex/Temp/Update/update.tar.gz
+./vxex/Temp/usblinux-20141112.7z
+./vxex/Temp/usblinux-20141117.7z
+./vxex/Temp/usblinux-20141119.7z
+./vxex/Temp/usblinux-20141201.7z
+./vxex/Temp/usblinux-20141205.7z
+./vxex/Temp/usblinux-20160119-eneres-release.7z
+./vxex/Temp/VEXBB_LINUX
+./vxex/Temp/VEXBB_LINUX/20150217
+./vxex/Temp/VEXBB_LINUX/20150217/Binary
+./vxex/Temp/VEXBB_LINUX/20150217/Binary/vexbb_linux-20150114.zip
+./vxex/Temp/VEXBB_LINUX/20150217/Binary/vexbb_linux-20150217.zip
+./vxex/Temp/VEXBB_LINUX/20150217/Source
+./vxex/Temp/VEXBB_LINUX/20150217/Source/omron-buildroot-custom-20150217.tar.gz
+./vxex/Temp/VEXBB_LINUX/20150217/Source/toolchain-linkage.patch.gz
+./vxex/Temp/VEXBB_LINUX/20150217/Source/vortex86-toolchain-2.6.32.tar.xz
+./vxex/Temp/VEXBB_LINUX/20150915
+./vxex/Temp/VEXBB_LINUX/20150915/Binary
+./vxex/Temp/VEXBB_LINUX/20150915/Binary/linux_update-20150915.tar.gz
+./vxex/Temp/VEXBB_LINUX/20150915/Binary/vexbb_linux-20150915.zip
+./vxex/Temp/VEXBB_LINUX/20150915/Source
+./vxex/Temp/VEXBB_LINUX/20150915/Source/omron-buildroot-custom-20150915.tar.gz
+./vxex/Temp/VEXBB_LINUX/20150915/Source/toolchain-linkage.patch.gz
+./vxex/Temp/VEXBB_LINUX/20150915/Source/vortex86-toolchain-2.6.32.tar.xz
+./vxex/Vortex86EX_A9123_DM01.pdf
+./vxmx
+./vxmx/About ICOP.wmv
+./vxmx/CE demo
+./vxmx/CE demo/CE60_MX.zip
+./vxmx/CE demo/Hive-base
+./vxmx/CE demo/Hive-base/MXTECO project with hive-base.zip
+./vxmx/CE demo/Hive-base/Vortex86DX_60B_x86_Release.zip
+./vxmx/CE demo/MXTECO project file.zip
+./vxmx/CE demo/Vortex86DX_60B_x86_Release.zip
+./vxmx/Demo Tool
+./vxmx/Demo Tool/2350_3350MX_XP_CHS.GHO
+./vxmx/Demo Tool/mugen.zip
+./vxmx/Demo Tool/MX_XPe_100723.GHO
+./vxmx/Demo Tool/Quartics.zip
+./vxmx/Demo Tool/The NZO System Video-1.wmv
+./vxmx/Demo Tool/The NZO System Video.wmv
+./vxmx/DM133a.xls
+./vxmx/DMP Introduction.wmv
+./vxmx/Drivers
+./vxmx/Drivers/3G
+./vxmx/Drivers/3G/3G_Huawei_2.0.3.822_Vistax64Vistax86XPx86_A.zip
+./vxmx/Drivers/3G/WinDriver_4.20.03.00.rar
+./vxmx/Drivers/Linux_Driver
+./vxmx/Drivers/Linux_Driver/Audio-ALC262-Linux_04202011
+./vxmx/Drivers/Linux_Driver/Audio-ALC262-Linux_04202011/LinuxPkg_5.16rc6.tar.bz2
+./vxmx/Drivers/Linux_Driver/linux-image-2.6.34.10-vortex86-sg_1.3_i386.deb
+./vxmx/Drivers/Linux_Driver/M2010_Xorg_Driver_&_Utility_R0.0.12.zip
+./vxmx/Drivers/Linux_Driver/M2010_Xorg_Driver_&_Utility_T0.0.13_1.zip
+./vxmx/Drivers/Linux_Driver/rdcfb.zip
+./vxmx/Drivers/Linux_Driver/Readme.html
+./vxmx/Drivers/Linux_Driver/VMX_V4L.zip
+./vxmx/Drivers/Linux_Driver/Vortex86MX_Linux_Support_List.pdf
+./vxmx/Drivers/TV-In
+./vxmx/Drivers/TV-In/Amcap
+./vxmx/Drivers/TV-In/Amcap/AMCap.zip
+./vxmx/Drivers/TV-In/Windows_XP_Driver
+./vxmx/Drivers/TV-In/Windows_XP_Driver/A9111_Cap_WDM_driver.rar
+./vxmx/Drivers/XP_Drivers
+./vxmx/Drivers/XP_Drivers/Audio-New-ALC262_XpDriver_04202011.zip
+./vxmx/Drivers/XP_Drivers/M2010_R14.zip
+./vxmx/Drivers/XP_Drivers/M2010_R15.zip
+./vxmx/Drivers/XP_Drivers/R6040_12.04.08.zip
+./vxmx/Drivers/XP_Embedded_Standard
+./vxmx/Drivers/XP_Embedded_Standard/3300MX.slx
+./vxmx/Drivers/XP_Embedded_Standard/devices.pmq
+./vxmx/Drivers/XP_Embedded_Standard/LAN
+./vxmx/Drivers/XP_Embedded_Standard/LAN/Files
+./vxmx/Drivers/XP_Embedded_Standard/LAN/Files/NETRDC.inf
+./vxmx/Drivers/XP_Embedded_Standard/LAN/Files/RDCPCI5.sys
+./vxmx/Drivers/XP_Embedded_Standard/LAN/Vortex86DX_MX_Ethernet.sld
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/files
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/files/hdaprop.dll
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/files/hdashcut.exe
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/files/hdaudbus.inf
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/files/hdaudbus.sys
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/files/hdaudio.inf
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/files/hdaudio.sys
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/files/hdaudres.dll
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/files/kb888111wxpsp2.cat
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/files/portcls.sys
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/kb888111.sld
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/Alcmtr.exe
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/AlcWzrd.exe
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/ALSndMgr.cpl
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/Ambfilt.sys
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/HDA.9111.inf
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/HDA.inf
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/hda32.cat
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/MicCal.exe
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/Monfilt.sys
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/RTCOMDLL.dll
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/RTHDCPL.exe
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/RtkAudioService.exe
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/RtkCoInstXP.dll
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/RTKHDAUD.sys
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/RtlCPAPI.dll
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/RTLCPL.exe
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/RtlUpd.exe
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/RTSndMgr.cpl
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/SkyTel.exe
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/vncutil.exe
+./vxmx/Drivers/XP_Embedded_Standard/MX Audio/realtek/wdmaudio.inf
+./vxmx/Drivers/XP_Embedded_Standard/MX VGA
+./vxmx/Drivers/XP_Embedded_Standard/MX VGA/Files
+./vxmx/Drivers/XP_Embedded_Standard/MX VGA/Files/banner.bmp
+./vxmx/Drivers/XP_Embedded_Standard/MX VGA/Files/DisplayPage.dll
+./vxmx/Drivers/XP_Embedded_Standard/MX VGA/Files/en_US.dll
+./vxmx/Drivers/XP_Embedded_Standard/MX VGA/Files/EventHook.dll
+./vxmx/Drivers/XP_Embedded_Standard/MX VGA/Files/rdcgd.dll
+./vxmx/Drivers/XP_Embedded_Standard/MX VGA/Files/rdcgm.sys
+./vxmx/Drivers/XP_Embedded_Standard/MX VGA/Files/RDCgr.inf
+./vxmx/Drivers/XP_Embedded_Standard/MX VGA/Files/Utility.exe
+./vxmx/Drivers/XP_Embedded_Standard/MX VGA/Files/zh_CN.dll
+./vxmx/Drivers/XP_Embedded_Standard/MX VGA/Files/zh_TW.dll
+./vxmx/Drivers/XP_Embedded_Standard/MX VGA/Vortex86MX_VGA.sld
+./vxmx/EduBook_WinXP_Home
+./vxmx/EduBook_WinXP_Home/2350_3350MX_XP_ENG.GHO
+./vxmx/EduBook_WinXP_Home/DX_XPP_SP3_EN.GHO
+./vxmx/EduBook_WinXP_Home/ghost32.zip
+./vxmx/EduBook_WinXP_Home/MX_VGA.GHO
+./vxmx/EVB BIOS
+./vxmx/EVB BIOS/MX A5 BIOS
+./vxmx/EVB BIOS/MX A5 BIOS/6490A5.rom
+./vxmx/EVB BIOS/MX A5 BIOS/SPIFLASH141 BIOS update tool
+./vxmx/EVB BIOS/MX A5 BIOS/SPIFLASH141 BIOS update tool/SPIFLASH141.zip
+./vxmx/EVB BIOS/MX A6 BIOS
+./vxmx/EVB BIOS/MX A6 BIOS/6490A6.rom
+./vxmx/EVB BIOS/MX A6 BIOS/note please apply ver spiflash141 to update A6 BIOS.txt
+./vxmx/EVB BIOS/MX A6 BIOS/SPIFLASH141 BIOS update tool
+./vxmx/EVB BIOS/MX A6 BIOS/SPIFLASH141 BIOS update tool/SPIFLASH141.zip
+./vxmx/EVB BIOS/textmx1.3GP
+./vxmx/FreeBSD
+./vxmx/FreeBSD/kernel_freebsd.tar.gz
+./vxmx/Gerber
+./vxmx/Gerber/dm133ager.zip
+./vxmx/Layout
+./vxmx/Layout/DM133Abrd.zip
+./vxmx/Linux
+./vxmx/Linux/android-froyo-100HV-2010-1215-usb-boot.gho
+./vxmx/Linux/Android22_VMX.arc
+./vxmx/Linux/beta
+./vxmx/Linux/beta/linux-image-2.6.30-vortex86mx-apm_1.3_i386.deb
+./vxmx/Linux/CentOS_5.5
+./vxmx/Linux/CentOS_5.5/2012-06-12-CentOS55-img.zip
+./vxmx/Linux/CentOS_5.5/tuxboot-0.2.exe
+./vxmx/Linux/Kernel 2.6.34.1.doc
+./vxmx/Linux/Kernel 2.6.34.1.pdf
+./vxmx/Linux/linux-2.6.34.1-vortex86-sg.tar.bz2
+./vxmx/Linux/linux-headers-2.6.34.1-vortex86-sg_1.0_i386.deb
+./vxmx/Linux/linux-image-2.6.26_1.0_i386.deb
+./vxmx/Linux/NewHardDisk1.7z
+./vxmx/Linux/Source
+./vxmx/Linux/Source/config-2.6.34-vortex86-sg-r1.zip
+./vxmx/Linux/Source/linux-2.6.34.1-vortex86-sg.tar.bz2
+./vxmx/Linux/Source/linux-headers-2.6.30-vortex86mx-apm_1.1_i386.deb
+./vxmx/Linux/Source/linux-headers-2.6.34.1-vortex86-sg_1.0_i386.deb
+./vxmx/Linux/Source/linux-image-2.6.34.1-vortex86-sg_1.0_i386.deb
+./vxmx/Linux/Source/linux-source-2.6.30-vortex86mx-apm_1.1_all.deb
+./vxmx/Linux/Source/M2012_Xorg_Driver&UtilityR0.0.1.zip
+./vxmx/Linux/Source/RDC Xorg Driver R0.0.9.zip
+./vxmx/Linux/Ubuntu1004_JDK_8_VMX3350.arc
+./vxmx/Linux/Ubuntu_1004
+./vxmx/Linux/Ubuntu_1004/ubuntu1004_20100721.arc
+./vxmx/Linux/Ubuntu_1004/ubuntu1004_20100721.arc.md5
+./vxmx/Linux/Ubuntu_1004/ubuntu1004_4g_20100830.arc
+./vxmx/Linux/Ubuntu_1004/ubuntu1004_PMXP_089T.arc
+./vxmx/Linux/V4LTestingPackage.zip
+./vxmx/Linux/VIA6655 Linux driver.zip
+./vxmx/Schematics
+./vxmx/Schematics/20100105-VMX-6490-KIT(DM133A)BOM_English.xls
+./vxmx/Schematics/DM133ASCHOUT.zip
+./vxmx/Schematics/DM133A_12.pdf
+./vxmx/User Manual
+./vxmx/User Manual/eBox33XX_Introduction.zip
+./vxmx/User Manual/EduBook_UM_V1.0.pdf
+./vxmx/User Manual/KeyboardPC.zip
+./vxmx/User Manual/KPC-T_Display_Switch_Instruction_V2.pdf
+./vxmx/User Manual/KPC_UM_V1R3.pdf
+./vxmxplus
+./vxmxplus/Bom
+./vxmxplus/Bom/Chinese
+./vxmxplus/Bom/Chinese/20101025-VMX-6590-1G-KIT(DM159B)BOM.xls
+./vxmxplus/Bom/English
+./vxmxplus/Bom/English/20101025-VMX-6590-1G-KIT(DM159B)BOM_ENG.xls
+./vxmxplus/Datasheet
+./vxmxplus/Datasheet/Vortex86MX+_A9130_V10_FactSheet-Briefly.pdf
+./vxmxplus/Demo
+./vxmxplus/Demo/2012-09-06-CentOS-Asterisk.zip
+./vxmxplus/Demo/3310_ENG.GHO
+./vxmxplus/Demo/Android22_VMX.arc
+./vxmxplus/Demo/bz3049
+./vxmxplus/Demo/CE6_boot.GHO
+./vxmxplus/Demo/DC_Exhibition_small.zip
+./vxmxplus/Demo/demo_video.zip
+./vxmxplus/Demo/image3_1004.arc
+./vxmxplus/Demo/KPCP_CHT.GHO
+./vxmxplus/Demo/MX+_1G_VESA_MODE_NK.zip
+./vxmxplus/Demo/PMXP090_IP65_DEMO.GHO
+./vxmxplus/Demo/SEEC_Linux_Demo.arc
+./vxmxplus/Demo/WinXPE_base.GHO
+./vxmxplus/Demo/Xiplink
+./vxmxplus/Demo/Xiplink/xiplink_freeBSD_20131023.arc
+./vxmxplus/Demo/XLR563_K3049.GHO
+./vxmxplus/Demo/XPE_PMXP090T.GHO
+./vxmxplus/Drivers
+./vxmxplus/Drivers/Linux
+./vxmxplus/Drivers/Linux/Audio-ALC262-Linux_04202011.zip
+./vxmxplus/Drivers/Linux/Kernel_Resource
+./vxmxplus/Drivers/Linux/Kernel_Resource/config_patch.zip
+./vxmxplus/Drivers/Linux/Kernel_Resource/linux-3.0.49.tar.bz2
+./vxmxplus/Drivers/Linux/Kernel_Resource/linux-3.2.33.tar.bz2
+./vxmxplus/Drivers/Linux/Kernel_Resource/patch-638012.zip
+./vxmxplus/Drivers/Linux/Kernel_resource_of_2.6.34.1_for_Vortex86.zip
+./vxmxplus/Drivers/Linux/linux-image-2.6.34.10-vortex86-sg_1.2_i386.deb
+./vxmxplus/Drivers/Linux/Linux_Framebuffer_driver_R0.0.1.zip
+./vxmxplus/Drivers/Linux/M2012lite_Xorg_Driver_&_Utility_T0.0.0_1.zip
+./vxmxplus/Drivers/Linux/M2012_Xorg_Driver_&_Utility_R0.0.1.zip
+./vxmxplus/Drivers/Linux/M2012_Xorg_Driver_&_Utility_R0.0.10-DMP.zip
+./vxmxplus/Drivers/Linux/M2012_Xorg_Driver_&_Utility_R0.0.2.zip
+./vxmxplus/Drivers/Linux/M2012_Xorg_Driver_&_Utility_R0.0.4.zip
+./vxmxplus/Drivers/Linux/M2012_Xorg_Driver_&_Utility_R0.0.8.zip
+./vxmxplus/Drivers/Linux/M2012_Xorg_Driver_&_Utility_R0.0.9.zip
+./vxmxplus/Drivers/Linux/M2012_Xorg_Driver_&_Utility_T0.0.9_1.zip
+./vxmxplus/Drivers/Linux/Readme.html
+./vxmxplus/Drivers/Linux/readme.txt
+./vxmxplus/Drivers/Linux/TSC2006
+./vxmxplus/Drivers/Linux/TSC2006/Debian60_rc.local.zip
+./vxmxplus/Drivers/Linux/TSC2006/eGalaxTouch-3.05.5025-32b-k26.tar.gz
+./vxmxplus/Drivers/Linux/TSC2006/linux-image-2.6.34.1-vortex86-sg_1.0_i386.deb
+./vxmxplus/Drivers/Linux/TSC2006/Ubuntu1004_rc.local.zip
+./vxmxplus/Drivers/Linux/TSC2006/xorg.conf
+./vxmxplus/Drivers/Linux/V4L_Kernel_Driver_R0.0.3.zip
+./vxmxplus/Drivers/Linux/VMX+_V4L.zip
+./vxmxplus/Drivers/Windows_XP
+./vxmxplus/Drivers/Windows_XP/20101027_Boardcom_VGA turbo.zip
+./vxmxplus/Drivers/Windows_XP/Audio-New-ALC262_XpDriver_04202011.zip
+./vxmxplus/Drivers/Windows_XP/Audio_5943_PG284_UAAV10a-5013.zip
+./vxmxplus/Drivers/Windows_XP/Ethernet-A9120_MAC_2008_09_10.zip
+./vxmxplus/Drivers/Windows_XP/Ethernet_12.04.zip
+./vxmxplus/Drivers/Windows_XP/Installer (Daily - File playback with players).zip
+./vxmxplus/Drivers/Windows_XP/LAN_MAC_2008_09_10.zip
+./vxmxplus/Drivers/Windows_XP/M2012_R5.zip
+./vxmxplus/Drivers/Windows_XP/M2012_R6.zip
+./vxmxplus/Drivers/Windows_XP/MPC-089T_XP_Drivers.zip
+./vxmxplus/Drivers/Windows_XP/NXP_Capture_R1.zip
+./vxmxplus/Drivers/Windows_XP/RTL8188_8191_8192_SU_WindowsDriver_1085.7.0815.2009.F0062.P0525_UI_1.00.0124.zip
+./vxmxplus/Drivers/Windows_XP/TV-In
+./vxmxplus/Drivers/Windows_XP/TV-In/Amcap
+./vxmxplus/Drivers/Windows_XP/TV-In/Amcap/AMCap.exe
+./vxmxplus/Drivers/Windows_XP/TV-In/Amcap/AMCap.zip
+./vxmxplus/Drivers/Windows_XP/TV-In/Windows XP Driver
+./vxmxplus/Drivers/Windows_XP/TV-In/Windows XP Driver/A9111_Cap_WDM_driver.rar
+./vxmxplus/Drivers/Windows_XP/Wireless-RTL8188.zip
+./vxmxplus/Errata
+./vxmxplus/Errata/Errata_Vx862014_a.pdf
+./vxmxplus/EVB_BIOS
+./vxmxplus/EVB_BIOS/MXPlus A6 BIOS
+./vxmxplus/EVB_BIOS/MXPlus A6 BIOS/6590A6.rom
+./vxmxplus/EVB_BIOS/MXPlus A6 BIOS/6590APMA6.rom
+./vxmxplus/EVB_BIOS/MXPlus A6 BIOS/note please apply ver spiflash141 to update A6 BIOS.txt
+./vxmxplus/EVB_BIOS/MXPlus A6 BIOS/Readme.txt
+./vxmxplus/EVB_BIOS/MXPlus A6 BIOS/SPIFLASH141 BIOS update tool
+./vxmxplus/EVB_BIOS/MXPlus A6 BIOS/SPIFLASH141 BIOS update tool/SPIFLASH141.zip
+./vxmxplus/EVB_BIOS/SPIFLASH1.47
+./vxmxplus/EVB_BIOS/SPIFLASH1.47/SPIFLASH1.47.rar
+./vxmxplus/Gerger
+./vxmxplus/Gerger/dm159bger.zip
+./vxmxplus/Layout
+./vxmxplus/Layout/A9130-AN-001-V02.pdf
+./vxmxplus/Layout/dm159abrd.zip
+./vxmxplus/Layout/dm159bbrd.zip
+./vxmxplus/Layout/DMP-A9130-AN-001-V03.pdf
+./vxmxplus/Projects
+./vxmxplus/Projects/Advantech
+./vxmxplus/Projects/Advantech/kernel-patch.zip
+./vxmxplus/Projects/Advantech/r8169.ko.gz
+./vxmxplus/Projects/Advantech/resources.zip
+./vxmxplus/Projects/Advantech/RPM
+./vxmxplus/Projects/Advantech/RPM/kernel-2.6.15-1.2054_FC5.root.i586.rpm
+./vxmxplus/Projects/Advantech/RPM/kernel-devel-2.6.15-1.2054_FC5.root.i586.rpm
+./vxmxplus/Schematic
+./vxmxplus/Schematic/DM159ASCH.pdf
+./vxmxplus/Schematic/DM159ASCHOUT.zip
+./vxmxplus/Schematic/dm159bSCH.pdf
+./vxmxplus/Schematic/DM159BSCHOUT.zip
+./vxmxplus/Tool
+./vxmxplus/Tool/FDOS.zip
+./vxmxplus/Tool/ghost.zip
+./vxmxplus/Tool/HPUSBFW.zip

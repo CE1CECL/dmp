@@ -1,0 +1,6 @@
+DM221 to DM221A modification list 2013/11/01
+1, Separate the Vref of DDR3. 
+2, The LANRX- is too close to  25MHz crystal on DM221. Move LANRX-on DM221A
+3, Disconnect REG_FB12 (pin T3) and REG_FB18 (pin R3) on DM221A to lower the 1.2V and 1.8V power waste. 
+
+

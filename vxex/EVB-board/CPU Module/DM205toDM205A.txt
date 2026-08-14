@@ -1,0 +1,24 @@
+DM205_06A-1 to DM205A modification list 2013/11/01
+1, Separate the Vref of DDR3. 
+2, The LANRX- is too close to  25MHz crystal on DM221. Move LANRX-on DM221A
+3, Disconnect REG_FB12 (pin T3) and REG_FB18 (pin R3) on DM221A to lower the 1.2V and 1.8V power waste. 
+4, Bypass Capacitor for 1.5V 
+( Please search for "add" on schemaitic to find those modifications)
+
+-------------------------------------------------------------------------
+2013/3/21  Update the schematic to version 0.6 (DM205_06A-1). 
+Modification List 
+* PCB thickness from 1.6mm to 1.0mm
+* US from IP5800 to SY8089
+* Delete R13(1M),C8 ,C9 (10p) , C146 ( 473p ) 
+* Change R67 from 0 to 10K
+* Change C137 from 473p to 104p
+* Change C144 from 104p to 224p
+* Change C145 from 224p to 105p
+* Change D3 from from S1N4001-M to FM220-M .
+
+
+
+
+
+

@@ -1,0 +1,44 @@
+Vortex86DX A6 BIOS modification list:
+
+1 . BIOS source code update
+2 . XGI Z9S VGA BIOS update ( version : z9s11404.bin )
+3 . Keyboard firmware update ( version : KBCFirmware15.bin , 08/24/2010)
+4 . USB hot plug function modification
+5 . Add A9121 chips porting code
+6 . Add SMI/SMM porting code
+7 . Modify USB kernel code
+8 . Add Ethernet PHY power down function
+9 . Add USB PHY power down function
+10. Fixed CMOS date/time loss issue
+11. Fixed CPU clock table issue
+12. Serial port support Hi-speed baud rate for A9121
+13. Fixed SMI mode can't work on GDB-Debug issue
+14. USB port independent IRQ can't share IRQ for WINCE boot issue
+15. DRAM timing modification
+16. Add ISA DMA clock selection
+17. Support serial port can select other IRQ
+18. Fixed DRAM clock table issue
+19. Add save custom defaults / load custom defaults function
+20. Fixed M-system DOC ( Disk On Chip ) issue
+22. Add internal Virtual Flash FDD function
+23. Back door space is ID33 for MMTOOL application used
+24. Internal Virtual Flash FDD drivers is ID40 for MMTOOL application used
+25. External Virtual Flash FDD drivers is ID41 for MMTOOL application used
+26. Add IRQ trigger type selection
+27. Fixed ethernet packet loss issue
+28. Modify IDE source code
+29. Modify keyboard source code
+30. Fixed linux boot issue ( if USB is SMI mode )
+31. Modify PIC8259 issue for A9121
+32. Add default order of setup boot menu selection for AMIBCP application used
+corresponding to
+(0) : removables
+(1) : hard disk
+(2) : atapi cdrom
+(3) : BEV/other
+(4) : USB
+(5) : LAN
+
+33. Fixed POST forward to com1 issue
+34. Fixed install Win98 blue screen issue
+35. External SPI driver update (version : 20091223)

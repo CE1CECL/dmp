@@ -1,0 +1,1 @@
+This Config file was build for kernel version 4.2.1, for wild differ in verions, be sure to contact with soc.dmp.com.tw, thanks. 
